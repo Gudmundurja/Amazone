@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "63bb228f49495cc6cfe1ff8b"
+  },
+  "Partner_ID": 1,
+  "Name": "Sandra Robinson",
+  "Age": 34,
+  "Gender": "F",
+  "Email": "SandraRobinson@Gmail.com",
+  "Location": [
+    {
+      "Longitude": -2.253526,
+      "Latitude": 53.485472
+    }
+  ],
+  "Active": 1,
+  "On_Delivery": 1,
+  "Num_Deliveries": 5,
+  "Hours_Worked": 3
+},{
+  "_id": {
+    "$oid": "63bb228f49495cc6cfe1ff8c"
+  },
+  "Partner_ID": 2,
+  "Name": "Andrea Edwards",
+  "Age": 22,
+  "Gender": "F",
+  "Email": "AndreaEdwards@Gmail.com",
+  "Location": [
+    {
+      "Longitude": -2.221822,
+      "Latitude": 53.483715
+    }
+  ],
+  "Active": 1,
+  "On_Delivery": 1,
+  "Num_Deliveries": 2,
+  "Hours_Worked": 6
+},{
+  "_id": {
+    "$oid": "63bb228f49495cc6cfe1ff8d"
+  },
+  "Partner_ID": 3,
+  "Name": "Brandon Miller",
+  "Age": 47,
+  "Gender": "M",
+  "Email": "BrandonMiller@Gmail.com",
+  "Location": [
+    {
+      "Longitude": -2.259728,
+      "Latitude": 53.468958
+    }
+  ],
+  "Active": 0,
+  "On_Delivery": 0,
+  "Num_Deliveries": 7,
+  "Hours_Worked": 8
+},{
+  "_id": {
+    "$oid": "63bb228f49495cc6cfe1ff8e"
+  },
+  "Partner_ID": 4,
+  "Name": "Billy Bobs",
+  "Age": 39,
+  "Gender": "M",
+  "Email": "BrandonBobs@Gmail.com",
+  "Location": [
+    {
+      "Longitude": -2.231813,
+      "Latitude": 53.502768
+    }
+  ],
+  "Active": 1,
+  "On_Delivery": 0,
+  "Num_Deliveries": 3,
+  "Hours_Worked": 3
+},{
+  "_id": {
+    "$oid": "63bb228f49495cc6cfe1ff8f"
+  },
+  "Partner_ID": 5,
+  "Name": "Zendaya",
+  "Age": 26,
+  "Gender": "F",
+  "Email": "Zendaya@Gmail.com",
+  "Location": [
+    {
+      "Longitude": -2.249013,
+      "Latitude": 53.488267
+    }
+  ],
+  "Active": 1,
+  "On_Delivery": 1,
+  "Num_Deliveries": 10,
+  "Hours_Worked": 5
+}]

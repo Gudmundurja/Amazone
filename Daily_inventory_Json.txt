@@ -1,0 +1,1121 @@
+[{
+	"Daily_inventory_ID": 1,
+	"Product_ID": 1,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 198
+	}
+}, {
+	"Daily_inventory_ID": 2,
+	"Product_ID": 2,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 438
+	}
+}, {
+	"Daily_inventory_ID": 3,
+	"Product_ID": 3,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 243
+	}
+}, {
+	"Daily_inventory_ID": 4,
+	"Product_ID": 4,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 276
+	}
+}, {
+	"Daily_inventory_ID": 5,
+	"Product_ID": 5,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 360
+	}
+}, {
+	"Daily_inventory_ID": 6,
+	"Product_ID": 6,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 288
+	}
+}, {
+	"Daily_inventory_ID": 7,
+	"Product_ID": 7,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 234
+	}
+}, {
+	"Daily_inventory_ID": 8,
+	"Product_ID": 8,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 277
+	}
+}, {
+	"Daily_inventory_ID": 9,
+	"Product_ID": 9,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 494
+	}
+}, {
+	"Daily_inventory_ID": 10,
+	"Product_ID": 10,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 695
+	}
+}, {
+	"Daily_inventory_ID": 11,
+	"Product_ID": 11,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 394
+	}
+}, {
+	"Daily_inventory_ID": 12,
+	"Product_ID": 12,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 811
+	}
+}, {
+	"Daily_inventory_ID": 13,
+	"Product_ID": 13,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 778
+	}
+}, {
+	"Daily_inventory_ID": 14,
+	"Product_ID": 14,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 830
+	}
+}, {
+	"Daily_inventory_ID": 15,
+	"Product_ID": 15,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 633
+	}
+}, {
+	"Daily_inventory_ID": 16,
+	"Product_ID": 16,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 268
+	}
+}, {
+	"Daily_inventory_ID": 17,
+	"Product_ID": 17,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 501
+	}
+}, {
+	"Daily_inventory_ID": 18,
+	"Product_ID": 18,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 763
+	}
+}, {
+	"Daily_inventory_ID": 19,
+	"Product_ID": 19,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 220
+	}
+}, {
+	"Daily_inventory_ID": 20,
+	"Product_ID": 20,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 83
+	}
+}, {
+	"Daily_inventory_ID": 21,
+	"Product_ID": 21,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 642
+	}
+}, {
+	"Daily_inventory_ID": 22,
+	"Product_ID": 22,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 875
+	}
+}, {
+	"Daily_inventory_ID": 23,
+	"Product_ID": 23,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 812
+	}
+}, {
+	"Daily_inventory_ID": 24,
+	"Product_ID": 24,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 615
+	}
+}, {
+	"Daily_inventory_ID": 25,
+	"Product_ID": 25,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 825
+	}
+}, {
+	"Daily_inventory_ID": 26,
+	"Product_ID": 26,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 277
+	}
+}, {
+	"Daily_inventory_ID": 27,
+	"Product_ID": 27,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 785
+	}
+}, {
+	"Daily_inventory_ID": 28,
+	"Product_ID": 28,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 744
+	}
+}, {
+	"Daily_inventory_ID": 29,
+	"Product_ID": 29,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 460
+	}
+}, {
+	"Daily_inventory_ID": 30,
+	"Product_ID": 30,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 711
+	}
+}, {
+	"Daily_inventory_ID": 31,
+	"Product_ID": 31,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 206
+	}
+}, {
+	"Daily_inventory_ID": 32,
+	"Product_ID": 32,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 239
+	}
+}, {
+	"Daily_inventory_ID": 33,
+	"Product_ID": 33,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 882
+	}
+}, {
+	"Daily_inventory_ID": 34,
+	"Product_ID": 34,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 1
+	}
+}, {
+	"Daily_inventory_ID": 35,
+	"Product_ID": 35,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 974
+	}
+}, {
+	"Daily_inventory_ID": 36,
+	"Product_ID": 36,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 387
+	}
+}, {
+	"Daily_inventory_ID": 37,
+	"Product_ID": 37,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 291
+	}
+}, {
+	"Daily_inventory_ID": 38,
+	"Product_ID": 38,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 402
+	}
+}, {
+	"Daily_inventory_ID": 39,
+	"Product_ID": 39,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 218
+	}
+}, {
+	"Daily_inventory_ID": 40,
+	"Product_ID": 40,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-21T00:00:00",
+		"Quantity": 774
+	}
+}, {
+	"Daily_inventory_ID": 41,
+	"Product_ID": 1,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 525
+	}
+}, {
+	"Daily_inventory_ID": 42,
+	"Product_ID": 2,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 688
+	}
+}, {
+	"Daily_inventory_ID": 43,
+	"Product_ID": 3,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 806
+	}
+}, {
+	"Daily_inventory_ID": 44,
+	"Product_ID": 4,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 371
+	}
+}, {
+	"Daily_inventory_ID": 45,
+	"Product_ID": 5,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 240
+	}
+}, {
+	"Daily_inventory_ID": 46,
+	"Product_ID": 6,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 738
+	}
+}, {
+	"Daily_inventory_ID": 47,
+	"Product_ID": 7,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 829
+	}
+}, {
+	"Daily_inventory_ID": 48,
+	"Product_ID": 8,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 837
+	}
+}, {
+	"Daily_inventory_ID": 49,
+	"Product_ID": 9,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 13
+	}
+}, {
+	"Daily_inventory_ID": 50,
+	"Product_ID": 10,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 594
+	}
+}, {
+	"Daily_inventory_ID": 51,
+	"Product_ID": 11,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 669
+	}
+}, {
+	"Daily_inventory_ID": 52,
+	"Product_ID": 12,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 134
+	}
+}, {
+	"Daily_inventory_ID": 53,
+	"Product_ID": 13,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 293
+	}
+}, {
+	"Daily_inventory_ID": 54,
+	"Product_ID": 14,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 665
+	}
+}, {
+	"Daily_inventory_ID": 55,
+	"Product_ID": 15,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 300
+	}
+}, {
+	"Daily_inventory_ID": 56,
+	"Product_ID": 16,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 328
+	}
+}, {
+	"Daily_inventory_ID": 57,
+	"Product_ID": 17,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 734
+	}
+}, {
+	"Daily_inventory_ID": 58,
+	"Product_ID": 18,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 911
+	}
+}, {
+	"Daily_inventory_ID": 59,
+	"Product_ID": 19,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 611
+	}
+}, {
+	"Daily_inventory_ID": 60,
+	"Product_ID": 20,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 673
+	}
+}, {
+	"Daily_inventory_ID": 61,
+	"Product_ID": 21,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 846
+	}
+}, {
+	"Daily_inventory_ID": 62,
+	"Product_ID": 22,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 918
+	}
+}, {
+	"Daily_inventory_ID": 63,
+	"Product_ID": 23,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 485
+	}
+}, {
+	"Daily_inventory_ID": 64,
+	"Product_ID": 24,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 151
+	}
+}, {
+	"Daily_inventory_ID": 65,
+	"Product_ID": 25,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 389
+	}
+}, {
+	"Daily_inventory_ID": 66,
+	"Product_ID": 26,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 391
+	}
+}, {
+	"Daily_inventory_ID": 67,
+	"Product_ID": 27,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 731
+	}
+}, {
+	"Daily_inventory_ID": 68,
+	"Product_ID": 28,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 396
+	}
+}, {
+	"Daily_inventory_ID": 69,
+	"Product_ID": 29,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 604
+	}
+}, {
+	"Daily_inventory_ID": 70,
+	"Product_ID": 30,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 38
+	}
+}, {
+	"Daily_inventory_ID": 71,
+	"Product_ID": 31,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 735
+	}
+}, {
+	"Daily_inventory_ID": 72,
+	"Product_ID": 32,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 297
+	}
+}, {
+	"Daily_inventory_ID": 73,
+	"Product_ID": 33,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 462
+	}
+}, {
+	"Daily_inventory_ID": 74,
+	"Product_ID": 34,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 984
+	}
+}, {
+	"Daily_inventory_ID": 75,
+	"Product_ID": 35,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 297
+	}
+}, {
+	"Daily_inventory_ID": 76,
+	"Product_ID": 36,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 281
+	}
+}, {
+	"Daily_inventory_ID": 77,
+	"Product_ID": 37,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 650
+	}
+}, {
+	"Daily_inventory_ID": 78,
+	"Product_ID": 38,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 282
+	}
+}, {
+	"Daily_inventory_ID": 79,
+	"Product_ID": 39,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 233
+	}
+}, {
+	"Daily_inventory_ID": 80,
+	"Product_ID": 40,
+	"Store_or_storage_warehouse_ID": 6,
+	"Storage_warehouse_name": "Beatty LLC",
+	"Storage_warehouse_location": {
+		"Longitude": -2.25882,
+		"Latitude": 53.481948
+	},
+	"Year": 2022,
+	"Inventory_measurement ": {
+		"Date": "2022-12-29T00:00:00",
+		"Quantity": 65
+	}
+}]

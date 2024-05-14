@@ -1,0 +1,241 @@
+[{
+	"Product_ID": 1,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 52
+	}
+}, {
+	"Product_ID": 2,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 90
+	}
+}, {
+	"Product_ID": 3,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 40
+	}
+}, {
+	"Product_ID": 4,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 80
+	}
+}, {
+	"Product_ID": 5,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 91
+	}
+}, {
+	"Product_ID": 6,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 34
+	}
+}, {
+	"Product_ID": 7,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 54
+	}
+}, {
+	"Product_ID": 8,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 95
+	}
+}, {
+	"Product_ID": 9,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 46
+	}
+}, {
+	"Product_ID": 10,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 63
+	}
+}, {
+	"Product_ID": 11,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 85
+	}
+}, {
+	"Product_ID": 12,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 17
+	}
+}, {
+	"Product_ID": 13,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 83
+	}
+}, {
+	"Product_ID": 14,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 86
+	}
+}, {
+	"Product_ID": 15,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 73
+	}
+}, {
+	"Product_ID": 16,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 50
+	}
+}, {
+	"Product_ID": 17,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 86
+	}
+}, {
+	"Product_ID": 18,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 60
+	}
+}, {
+	"Product_ID": 19,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 92
+	}
+}, {
+	"Product_ID": 20,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 17
+	}
+}, {
+	"Product_ID": 21,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 62
+	}
+}, {
+	"Product_ID": 22,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 51
+	}
+}, {
+	"Product_ID": 23,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 16
+	}
+}, {
+	"Product_ID": 24,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 55
+	}
+}, {
+	"Product_ID": 25,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 42
+	}
+}, {
+	"Product_ID": 26,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 93
+	}
+}, {
+	"Product_ID": 27,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 48
+	}
+}, {
+	"Product_ID": 28,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 99
+	}
+}, {
+	"Product_ID": 29,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 32
+	}
+}, {
+	"Product_ID": 30,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 71
+	}
+}, {
+	"Product_ID": 31,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 90
+	}
+}, {
+	"Product_ID": 32,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 91
+	}
+}, {
+	"Product_ID": 33,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 52
+	}
+}, {
+	"Product_ID": 34,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 69
+	}
+}, {
+	"Product_ID": 35,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 21
+	}
+}, {
+	"Product_ID": 36,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 20
+	}
+}, {
+	"Product_ID": 37,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 34
+	}
+}, {
+	"Product_ID": 38,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 65
+	}
+}, {
+	"Product_ID": 39,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 30
+	}
+}, {
+	"Product_ID": 40,
+	"Inventory_in_warehouse": {
+		"Warehouse_ID": 6,
+		"Quantity": 80
+	}
+}]

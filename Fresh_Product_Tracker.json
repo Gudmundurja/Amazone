@@ -1,0 +1,1649 @@
+[{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb0"
+  },
+  "Product_ID": 41,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 670
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 767
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 437
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 201
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 229
+    }
+  ],
+  "Total quantity across stores": 2304
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb1"
+  },
+  "Product_ID": 42,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 228
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 546
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 904
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 673
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 660
+    }
+  ],
+  "Total quantity across stores": 3011
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb2"
+  },
+  "Product_ID": 43,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 439
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 417
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 249
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 637
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 90
+    }
+  ],
+  "Total quantity across stores": 1832
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb3"
+  },
+  "Product_ID": 44,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 270
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 396
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 616
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 391
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 643
+    }
+  ],
+  "Total quantity across stores": 2316
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb4"
+  },
+  "Product_ID": 45,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 493
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 151
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 201
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 917
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 965
+    }
+  ],
+  "Total quantity across stores": 2727
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb5"
+  },
+  "Product_ID": 46,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 209
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 616
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 222
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 833
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 621
+    }
+  ],
+  "Total quantity across stores": 2501
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb6"
+  },
+  "Product_ID": 47,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 593
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 129
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 3
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 202
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 383
+    }
+  ],
+  "Total quantity across stores": 1310
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb7"
+  },
+  "Product_ID": 48,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 78
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 576
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 605
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 226
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 105
+    }
+  ],
+  "Total quantity across stores": 1590
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb8"
+  },
+  "Product_ID": 49,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 413
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 949
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 399
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 557
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 906
+    }
+  ],
+  "Total quantity across stores": 3224
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffb9"
+  },
+  "Product_ID": 50,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 80
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 251
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 76
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 512
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 632
+    }
+  ],
+  "Total quantity across stores": 1551
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffba"
+  },
+  "Product_ID": 51,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 460
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 799
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 790
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 112
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 389
+    }
+  ],
+  "Total quantity across stores": 2550
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffbb"
+  },
+  "Product_ID": 52,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 447
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 202
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 52
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 170
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 438
+    }
+  ],
+  "Total quantity across stores": 1309
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffbc"
+  },
+  "Product_ID": 53,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 740
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 231
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 690
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 939
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 242
+    }
+  ],
+  "Total quantity across stores": 2842
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffbd"
+  },
+  "Product_ID": 54,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 601
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 941
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 365
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 421
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 695
+    }
+  ],
+  "Total quantity across stores": 3023
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffbe"
+  },
+  "Product_ID": 55,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 501
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 156
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 219
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 928
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 948
+    }
+  ],
+  "Total quantity across stores": 2752
+},{
+  "_id": {
+    "$oid": "63bb320b49495cc6cfe1ffbf"
+  },
+  "Product_ID": 56,
+  "Inventory in store": [
+    {
+      "Store_ID": 1,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "1",
+          "Street": "Churchill Way",
+          "City": "Salford",
+          "Postcode": "M6 5BU"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.288206,
+          "Latitude": 53.486575
+        }
+      ],
+      "Quantity": 30
+    },
+    {
+      "Store_ID": 2,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "7",
+          "Street": "Rolls Crescent",
+          "City": "Manchester",
+          "Postcode": "M15 5FT"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.248316,
+          "Latitude": 53.46585
+        }
+      ],
+      "Quantity": 541
+    },
+    {
+      "Store_ID": 3,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "14",
+          "Street": "Princess Street",
+          "City": "Manchester",
+          "Postcode": "M60 4LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.237787,
+          "Latitude": 53.475065
+        }
+      ],
+      "Quantity": 53
+    },
+    {
+      "Store_ID": 4,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "23",
+          "Street": "Oxford Road",
+          "City": "Manchester",
+          "Postcode": "M5 1LH"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.227815,
+          "Latitude": 53.459632
+        }
+      ],
+      "Quantity": 992
+    },
+    {
+      "Store_ID": 5,
+      "Name": "Morrisons",
+      "Address": [
+        {
+          "House_Number": "3",
+          "Street": "Boyle Street",
+          "City": "Manchester",
+          "Postcode": "M8 8UW"
+        }
+      ],
+      "Location": [
+        {
+          "Longitude": -2.234108,
+          "Latitude": 53.502419
+        }
+      ],
+      "Quantity": 294
+    }
+  ],
+  "Total quantity across stores": 1910
+}]

@@ -1,0 +1,3129 @@
+[{
+	"Order_ID": 1,
+	"Customer_ID": 1,
+	"Order_date": "2021-08-16T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 33,
+		"Type": "Book",
+		"Price": 21.85,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 37,
+		"Type": "Book",
+		"Price": 9.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 39,
+		"Type": "Book",
+		"Price": 12.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 300.22,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 133.77
+}, {
+	"Order_ID": 2,
+	"Customer_ID": 2,
+	"Order_date": "2021-09-19T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 8,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 33,
+		"Type": "Book",
+		"Price": 21.85,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 7,
+		"Type": "CD",
+		"Price": 15.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 181.4,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 61.42
+}, {
+	"Order_ID": 3,
+	"Customer_ID": 3,
+	"Order_date": "2020-10-18T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 8,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 35,
+		"Type": "Book",
+		"Price": 19.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 181.51,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 78.48
+}, {
+	"Order_ID": 4,
+	"Customer_ID": 4,
+	"Order_date": "2020-10-12T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 4,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 121.87,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 57.17
+}, {
+	"Order_ID": 5,
+	"Customer_ID": 5,
+	"Order_date": "2021-03-31T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 3,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 11.9,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 9.84
+}, {
+	"Order_ID": 6,
+	"Customer_ID": 6,
+	"Order_date": "2020-12-13T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 2,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 16.99,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 9.59
+}, {
+	"Order_ID": 7,
+	"Customer_ID": 7,
+	"Order_date": "2022-10-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 5,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 2753.41,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1737.44
+}, {
+	"Order_ID": 8,
+	"Customer_ID": 8,
+	"Order_date": "2021-12-16T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 6,
+		"Type": "CD",
+		"Price": 16.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 1,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 7,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 8,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 105.74,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 41.43
+}, {
+	"Order_ID": 9,
+	"Customer_ID": 9,
+	"Order_date": "2022-08-07T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 2,
+		"Type": "CD",
+		"Price": 14.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 4,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 7,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 7,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 5,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 242.2,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 112.86
+}, {
+	"Order_ID": 10,
+	"Customer_ID": 10,
+	"Order_date": "2021-03-16T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 9,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 16,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 29,
+		"Type": "Home_Appliance",
+		"Price": 275,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 5,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 27,
+		"Type": "Home_Appliance",
+		"Price": 42,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 7299.4,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 3023.55
+}, {
+	"Order_ID": 11,
+	"Customer_ID": 11,
+	"Order_date": "2021-01-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 32,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 9,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 8,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 4701.52,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 3002.32
+}, {
+	"Order_ID": 12,
+	"Customer_ID": 12,
+	"Order_date": "2021-10-10T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 5,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 33,
+		"Type": "Book",
+		"Price": 21.85,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 3,
+		"Type": "CD",
+		"Price": 11.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 252.72,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 89.34
+}, {
+	"Order_ID": 13,
+	"Customer_ID": 13,
+	"Order_date": "2022-09-02T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 3,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 3.0,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 2.94
+}, {
+	"Order_ID": 14,
+	"Customer_ID": 14,
+	"Order_date": "2020-09-20T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 7,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 14.0,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 12.6
+}, {
+	"Order_ID": 15,
+	"Customer_ID": 15,
+	"Order_date": "2021-08-15T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 38,
+		"Type": "Book",
+		"Price": 25.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 30,
+		"Type": "Home_Appliance",
+		"Price": 675,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 7,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 10,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 10,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 32,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 4947.51,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1821.24
+}, {
+	"Order_ID": 16,
+	"Customer_ID": 16,
+	"Order_date": "2022-01-31T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 4,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 7,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 1.1,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 0.88
+}, {
+	"Order_ID": 17,
+	"Customer_ID": 17,
+	"Order_date": "2020-06-07T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 3,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 12,
+		"Type": "Mobile_Phone",
+		"Price": 500,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 5,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 27,
+		"Type": "Home_Appliance",
+		"Price": 42,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 15,
+		"Type": "Mobile_Phone",
+		"Price": 550,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 3826.35,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 3063.35
+}, {
+	"Order_ID": 18,
+	"Customer_ID": 18,
+	"Order_date": "2020-05-21T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 37,
+		"Type": "Book",
+		"Price": 9.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 9,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 35,
+		"Type": "Book",
+		"Price": 19.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 5,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 16,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 8,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 1911.59,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 841.67
+}, {
+	"Order_ID": 19,
+	"Customer_ID": 19,
+	"Order_date": "2022-01-27T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 9,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 24,
+		"Type": "Home_Appliance",
+		"Price": 430,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 3458.0,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 1216.2
+}, {
+	"Order_ID": 20,
+	"Customer_ID": 20,
+	"Order_date": "2020-12-14T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 23,
+		"Type": "Home_Appliance",
+		"Price": 35,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 32,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 5,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 7,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 12,
+		"Type": "Mobile_Phone",
+		"Price": 500,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 2,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 2228.63,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1922.8
+}, {
+	"Order_ID": 21,
+	"Customer_ID": 1,
+	"Order_date": "2021-12-05T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 9,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 48,
+		"Type": "Fresh Product",
+		"Price": 1.9,
+		"Quantity": 10,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 26.47,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 18.51
+}, {
+	"Order_ID": 22,
+	"Customer_ID": 2,
+	"Order_date": "2020-10-20T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 5,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 4.45,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 2.45
+}, {
+	"Order_ID": 23,
+	"Customer_ID": 3,
+	"Order_date": "2021-12-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 12,
+		"Type": "Mobile_Phone",
+		"Price": 500,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 48,
+		"Type": "Fresh Product",
+		"Price": 1.9,
+		"Quantity": 8,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 14192.2,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 9687.0
+}, {
+	"Order_ID": 24,
+	"Customer_ID": 4,
+	"Order_date": "2020-03-31T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 19,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 19,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 7,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 6058.43,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 1646.33
+}, {
+	"Order_ID": 25,
+	"Customer_ID": 5,
+	"Order_date": "2022-12-29T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 6,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 8,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 12082.19,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 7792.07
+}, {
+	"Order_ID": 26,
+	"Customer_ID": 6,
+	"Order_date": "2021-10-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 17,
+		"Type": "Mobile_Phone",
+		"Price": 915,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 1,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 3730.82,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 1542.62
+}, {
+	"Order_ID": 27,
+	"Customer_ID": 7,
+	"Order_date": "2021-11-08T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 6,
+		"Type": "CD",
+		"Price": 16.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 16,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 2645.97,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 1142.97
+}, {
+	"Order_ID": 28,
+	"Customer_ID": 8,
+	"Order_date": "2021-02-05T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 1,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 16,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 3,
+		"Type": "CD",
+		"Price": 11.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 39,
+		"Type": "Book",
+		"Price": 12.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 32,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 4427.02,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1926.12
+}, {
+	"Order_ID": 29,
+	"Customer_ID": 9,
+	"Order_date": "2021-01-02T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 14,
+		"Type": "Mobile_Phone",
+		"Price": 999,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 4,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 999.8,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 415.72
+}, {
+	"Order_ID": 30,
+	"Customer_ID": 10,
+	"Order_date": "2022-03-07T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 8,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 8,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 24,
+		"Type": "Home_Appliance",
+		"Price": 430,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 8,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 4,
+		"Type": "CD",
+		"Price": 10.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 6,
+		"Type": "CD",
+		"Price": 16.99,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 1039.85,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 372.45
+}, {
+	"Order_ID": 31,
+	"Customer_ID": 11,
+	"Order_date": "2022-12-27T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 4,
+		"Type": "CD",
+		"Price": 10.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 131.88,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 89.88
+}, {
+	"Order_ID": 32,
+	"Customer_ID": 12,
+	"Order_date": "2020-05-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 6,
+		"Type": "CD",
+		"Price": 16.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 19,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 5,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 3,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 2,
+		"Type": "CD",
+		"Price": 14.99,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 10,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 5568.65,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 1565.09
+}, {
+	"Order_ID": 33,
+	"Customer_ID": 13,
+	"Order_date": "2022-07-09T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 35,
+		"Type": "Book",
+		"Price": 19.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 7,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 6,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 9,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 23,
+		"Type": "Home_Appliance",
+		"Price": 35,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 2,
+		"Type": "CD",
+		"Price": 14.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 517.35,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 223.94
+}, {
+	"Order_ID": 34,
+	"Customer_ID": 14,
+	"Order_date": "2020-04-09T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 17,
+		"Type": "Mobile_Phone",
+		"Price": 915,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 7,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 3,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 1,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 3,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 9163.1,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 3758.58
+}, {
+	"Order_ID": 35,
+	"Customer_ID": 15,
+	"Order_date": "2022-03-07T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 8,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 3.2,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 2.4
+}, {
+	"Order_ID": 36,
+	"Customer_ID": 16,
+	"Order_date": "2022-07-19T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 30,
+		"Type": "Home_Appliance",
+		"Price": 675,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 3,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 9,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 29,
+		"Type": "Home_Appliance",
+		"Price": 275,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 3,
+		"Type": "CD",
+		"Price": 11.99,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 5740.69,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 2118.83
+}, {
+	"Order_ID": 37,
+	"Customer_ID": 17,
+	"Order_date": "2020-10-18T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 3,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 3,
+		"Type": "CD",
+		"Price": 11.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 113.91,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 59.31
+}, {
+	"Order_ID": 38,
+	"Customer_ID": 18,
+	"Order_date": "2021-02-02T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 6,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 28,
+		"Type": "Home_Appliance",
+		"Price": 37,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 8,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 85.48,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 47.26
+}, {
+	"Order_ID": 39,
+	"Customer_ID": 19,
+	"Order_date": "2020-01-20T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 7,
+		"Type": "CD",
+		"Price": 15.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 9,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 32,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 2,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 3,
+		"Type": "CD",
+		"Price": 11.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 271.03,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 138.11
+}, {
+	"Order_ID": 40,
+	"Customer_ID": 20,
+	"Order_date": "2022-08-14T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 36,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 5,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 10,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 24,
+		"Type": "Home_Appliance",
+		"Price": 430,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 3,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 3914.51,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 1372.99
+}, {
+	"Order_ID": 41,
+	"Customer_ID": 1,
+	"Order_date": "2020-01-03T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 4550,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 2905
+}, {
+	"Order_ID": 42,
+	"Customer_ID": 2,
+	"Order_date": "2022-11-28T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 3,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 6,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 4,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 10,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 15,
+		"Type": "Mobile_Phone",
+		"Price": 550,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 3,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 5518.3,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 2365.72
+}, {
+	"Order_ID": 43,
+	"Customer_ID": 3,
+	"Order_date": "2020-01-30T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 12,
+		"Type": "Mobile_Phone",
+		"Price": 500,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 7,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 7,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 3,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 14,
+		"Type": "Mobile_Phone",
+		"Price": 999,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 4,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 12404.0,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 6270.08
+}, {
+	"Order_ID": 44,
+	"Customer_ID": 4,
+	"Order_date": "2020-02-28T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 23,
+		"Type": "Home_Appliance",
+		"Price": 35,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 38,
+		"Type": "Book",
+		"Price": 25.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 4,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 438.34,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 149.36
+}, {
+	"Order_ID": 45,
+	"Customer_ID": 5,
+	"Order_date": "2021-06-11T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 9,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 38,
+		"Type": "Book",
+		"Price": 25.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 8,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 7,
+		"Type": "CD",
+		"Price": 15.99,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 172.87,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 97.26
+}, {
+	"Order_ID": 46,
+	"Customer_ID": 6,
+	"Order_date": "2021-01-10T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 7,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 7.0,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 6.86
+}, {
+	"Order_ID": 47,
+	"Customer_ID": 7,
+	"Order_date": "2022-06-28T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 6,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 0.6,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 0.48
+}, {
+	"Order_ID": 48,
+	"Customer_ID": 8,
+	"Order_date": "2020-02-01T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 35,
+		"Type": "Book",
+		"Price": 19.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 1,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 8,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 34,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 15,
+		"Type": "Mobile_Phone",
+		"Price": 550,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 26,
+		"Type": "Home_Appliance",
+		"Price": 30,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 838.48,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 376.42
+}, {
+	"Order_ID": 49,
+	"Customer_ID": 9,
+	"Order_date": "2022-08-29T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 7,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 10,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 12,
+		"Type": "Mobile_Phone",
+		"Price": 500,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 10,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 2,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 32,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 1633.62,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1435.06
+}, {
+	"Order_ID": 50,
+	"Customer_ID": 10,
+	"Order_date": "2021-12-12T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 9,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 37,
+		"Type": "Book",
+		"Price": 9.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 14,
+		"Type": "Mobile_Phone",
+		"Price": 999,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 8118.88,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 3405.88
+}, {
+	"Order_ID": 51,
+	"Customer_ID": 11,
+	"Order_date": "2022-04-04T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 29,
+		"Type": "Home_Appliance",
+		"Price": 275,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 1,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 11099.89,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 7099.69
+}, {
+	"Order_ID": 52,
+	"Customer_ID": 12,
+	"Order_date": "2022-02-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 1,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 23,
+		"Type": "Home_Appliance",
+		"Price": 35,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 23,
+		"Type": "Home_Appliance",
+		"Price": 35,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 9,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 450.79,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 210.59
+}, {
+	"Order_ID": 53,
+	"Customer_ID": 13,
+	"Order_date": "2022-04-13T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 9,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 2,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 8,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 8,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 19.55,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 12.03
+}, {
+	"Order_ID": 54,
+	"Customer_ID": 14,
+	"Order_date": "2020-02-15T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 48,
+		"Type": "Fresh Product",
+		"Price": 1.9,
+		"Quantity": 1,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 36,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 9,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 130.8,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 83.8
+}, {
+	"Order_ID": 55,
+	"Customer_ID": 15,
+	"Order_date": "2021-12-04T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 9,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 5,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 104.26,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 76.08
+}, {
+	"Order_ID": 56,
+	"Customer_ID": 16,
+	"Order_date": "2022-11-18T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 29,
+		"Type": "Home_Appliance",
+		"Price": 275,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 5,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 4,
+		"Type": "CD",
+		"Price": 10.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 4,
+		"Type": "CD",
+		"Price": 10.99,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 2,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 7,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 1226.18,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 467.92
+}, {
+	"Order_ID": 57,
+	"Customer_ID": 17,
+	"Order_date": "2022-01-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 14,
+		"Type": "Mobile_Phone",
+		"Price": 999,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 3,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 3709.4,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 2169.24
+}, {
+	"Order_ID": 58,
+	"Customer_ID": 18,
+	"Order_date": "2022-07-17T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 1,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 28,
+		"Type": "Home_Appliance",
+		"Price": 37,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 30,
+		"Type": "Home_Appliance",
+		"Price": 675,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 9,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 5447.29,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 2022.11
+}, {
+	"Order_ID": 59,
+	"Customer_ID": 19,
+	"Order_date": "2020-02-27T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 10,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 8,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 2,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 3,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 3,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 5,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 29.17,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 23.35
+}, {
+	"Order_ID": 60,
+	"Customer_ID": 20,
+	"Order_date": "2020-09-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 9,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 5,
+		"Type": "CD",
+		"Price": 10.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 9,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 10,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 10,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 233.01,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 152.93
+}, {
+	"Order_ID": 61,
+	"Customer_ID": 1,
+	"Order_date": "2021-04-02T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 26,
+		"Type": "Home_Appliance",
+		"Price": 30,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 4,
+		"Type": "CD",
+		"Price": 10.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 324.95,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 137.95
+}, {
+	"Order_ID": 62,
+	"Customer_ID": 2,
+	"Order_date": "2021-05-20T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 29,
+		"Type": "Home_Appliance",
+		"Price": 275,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 14,
+		"Type": "Mobile_Phone",
+		"Price": 999,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 7,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 4,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 9373.75,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 3817.89
+}, {
+	"Order_ID": 63,
+	"Customer_ID": 3,
+	"Order_date": "2022-06-15T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 1,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 8,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 15,
+		"Type": "Mobile_Phone",
+		"Price": 550,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 9,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 7,
+		"Type": "CD",
+		"Price": 15.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 1,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 28,
+		"Type": "Home_Appliance",
+		"Price": 37,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 2817.63,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 1203.27
+}, {
+	"Order_ID": 64,
+	"Customer_ID": 4,
+	"Order_date": "2021-10-18T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 1,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 1,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 6,
+		"Type": "CD",
+		"Price": 16.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 87.53,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 31.61
+}, {
+	"Order_ID": 65,
+	"Customer_ID": 5,
+	"Order_date": "2022-07-30T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 2,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 16,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 26,
+		"Type": "Home_Appliance",
+		"Price": 30,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 30,
+		"Type": "Home_Appliance",
+		"Price": 675,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 3,
+		"Type": "CD",
+		"Price": 11.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 14519.73,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 7062.1
+}, {
+	"Order_ID": 66,
+	"Customer_ID": 6,
+	"Order_date": "2021-03-15T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 4,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 34,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 17,
+		"Type": "Mobile_Phone",
+		"Price": 915,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 24,
+		"Type": "Home_Appliance",
+		"Price": 430,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 4,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 3762.88,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1515.92
+}, {
+	"Order_ID": 67,
+	"Customer_ID": 7,
+	"Order_date": "2020-08-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 23,
+		"Type": "Home_Appliance",
+		"Price": 35,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 8,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 268.92,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 124.52
+}, {
+	"Order_ID": 68,
+	"Customer_ID": 8,
+	"Order_date": "2022-09-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 54,
+		"Type": "Fresh Product",
+		"Price": 0.4,
+		"Quantity": 5,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 13,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 7,
+		"Type": "CD",
+		"Price": 15.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 7,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 15,
+		"Type": "Mobile_Phone",
+		"Price": 550,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 16,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 8379.03,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 3775.43
+}, {
+	"Order_ID": 69,
+	"Customer_ID": 9,
+	"Order_date": "2022-03-24T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 37,
+		"Type": "Book",
+		"Price": 9.99,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 31,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 4,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 233.1,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 153.34
+}, {
+	"Order_ID": 70,
+	"Customer_ID": 10,
+	"Order_date": "2020-08-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 5,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 18,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 24,
+		"Type": "Home_Appliance",
+		"Price": 430,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 28,
+		"Type": "Home_Appliance",
+		"Price": 37,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 6,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 25,
+		"Type": "Home_Appliance",
+		"Price": 510,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 9707.95,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 3106.18
+}, {
+	"Order_ID": 71,
+	"Customer_ID": 11,
+	"Order_date": "2021-04-12T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 4,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 10,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 14.0,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 13.72
+}, {
+	"Order_ID": 72,
+	"Customer_ID": 12,
+	"Order_date": "2020-09-23T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 9,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 12,
+		"Type": "Mobile_Phone",
+		"Price": 500,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 8,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 3581.35,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 3192.96
+}, {
+	"Order_ID": 73,
+	"Customer_ID": 13,
+	"Order_date": "2022-01-23T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 1,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 48,
+		"Type": "Fresh Product",
+		"Price": 1.9,
+		"Quantity": 7,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 5,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 6,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 17.18,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 12.82
+}, {
+	"Order_ID": 74,
+	"Customer_ID": 14,
+	"Order_date": "2021-05-13T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 6,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 10,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 4,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 14,
+		"Type": "Mobile_Phone",
+		"Price": 999,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 10103.74,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 4206.86
+}, {
+	"Order_ID": 75,
+	"Customer_ID": 15,
+	"Order_date": "2022-02-03T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 11,
+		"Type": "Mobile_Phone",
+		"Price": 765,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 4590,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 2490
+}, {
+	"Order_ID": 76,
+	"Customer_ID": 16,
+	"Order_date": "2020-11-30T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 10,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 27,
+		"Type": "Home_Appliance",
+		"Price": 42,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 7,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 170.98,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 70.71
+}, {
+	"Order_ID": 77,
+	"Customer_ID": 17,
+	"Order_date": "2022-01-11T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 3,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 48,
+		"Type": "Fresh Product",
+		"Price": 1.9,
+		"Quantity": 6,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 28,
+		"Type": "Home_Appliance",
+		"Price": 37,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 3,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 2,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 9,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 43,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 8,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 144.79,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 65.71
+}, {
+	"Order_ID": 78,
+	"Customer_ID": 18,
+	"Order_date": "2022-01-23T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 7,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 9,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 9,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 1,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 55,
+		"Type": "Fresh Product",
+		"Price": 0.6,
+		"Quantity": 7,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 145.19,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 87.43
+}, {
+	"Order_ID": 79,
+	"Customer_ID": 19,
+	"Order_date": "2022-09-25T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 18,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 38,
+		"Type": "Book",
+		"Price": 25.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 3693.91,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 1141.04
+}, {
+	"Order_ID": 80,
+	"Customer_ID": 20,
+	"Order_date": "2022-08-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 8,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 13,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 7803.92,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 5156.52
+}, {
+	"Order_ID": 81,
+	"Customer_ID": 1,
+	"Order_date": "2022-12-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 3,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 10,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 1,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 29,
+		"Type": "Home_Appliance",
+		"Price": 275,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 53,
+		"Type": "Fresh Product",
+		"Price": 0.2,
+		"Quantity": 9,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 830.1,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 301.64
+}, {
+	"Order_ID": 82,
+	"Customer_ID": 2,
+	"Order_date": "2020-11-17T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 2,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 2.0,
+	"Partner_ID": 3,
+	"Total_Order_Cost": 1.96
+}, {
+	"Order_ID": 83,
+	"Customer_ID": 3,
+	"Order_date": "2020-10-20T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 34,
+		"Type": "Book",
+		"Price": 10.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 17,
+		"Type": "Mobile_Phone",
+		"Price": 915,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 10,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 5553.25,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 2296.7
+}, {
+	"Order_ID": 84,
+	"Customer_ID": 4,
+	"Order_date": "2022-09-06T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 11,
+		"Type": "Mobile_Phone",
+		"Price": 765,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 3060,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1660
+}, {
+	"Order_ID": 85,
+	"Customer_ID": 5,
+	"Order_date": "2020-07-31T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 39,
+		"Type": "Book",
+		"Price": 12.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 10,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 21,
+		"Type": "Home_Appliance",
+		"Price": 275,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 2007.84,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 869.26
+}, {
+	"Order_ID": 86,
+	"Customer_ID": 6,
+	"Order_date": "2021-01-30T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 20,
+		"Type": "Mobile_Phone",
+		"Price": 650,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 48,
+		"Type": "Fresh Product",
+		"Price": 1.9,
+		"Quantity": 9,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 1317.1,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 843.5
+}, {
+	"Order_ID": 87,
+	"Customer_ID": 7,
+	"Order_date": "2020-06-05T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 42,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 3,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 2,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 14,
+		"Type": "Mobile_Phone",
+		"Price": 999,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 8992.67,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 3736.03
+}, {
+	"Order_ID": 88,
+	"Customer_ID": 8,
+	"Order_date": "2022-11-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 7,
+		"Type": "CD",
+		"Price": 15.99,
+		"Quantity": 2,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 10,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 27,
+		"Type": "Home_Appliance",
+		"Price": 42,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 38,
+		"Type": "Book",
+		"Price": 25.99,
+		"Quantity": 6,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 678.89,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 253.02
+}, {
+	"Order_ID": 89,
+	"Customer_ID": 9,
+	"Order_date": "2022-03-16T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 5412,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 3500
+}, {
+	"Order_ID": 90,
+	"Customer_ID": 10,
+	"Order_date": "2021-03-16T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 56,
+		"Type": "Fresh Product",
+		"Price": 0.14,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 5429.27,
+	"Partner_ID": 1,
+	"Total_Order_Cost": 3508.82
+}, {
+	"Order_ID": 91,
+	"Customer_ID": 11,
+	"Order_date": "2020-01-16T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 44,
+		"Type": "Fresh Product",
+		"Price": 0.89,
+		"Quantity": 9,
+		"From_store_or_warehouse": 4
+	}],
+	"Total_Order_Price": 8.01,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 4.41
+}, {
+	"Order_ID": 92,
+	"Customer_ID": 12,
+	"Order_date": "2022-12-19T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 2,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 33,
+		"Type": "Book",
+		"Price": 21.85,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 50,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 7,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 4,
+		"From_store_or_warehouse": 5
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 3,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 2,
+		"From_store_or_warehouse": 1
+	}],
+	"Total_Order_Price": 172.11,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 58.71
+}, {
+	"Order_ID": 93,
+	"Customer_ID": 13,
+	"Order_date": "2020-08-02T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 46,
+		"Type": "Fresh Product",
+		"Price": 1.2,
+		"Quantity": 4,
+		"From_store_or_warehouse": 2
+	}],
+	"Total_Order_Price": 4.8,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 4.0
+}, {
+	"Order_ID": 94,
+	"Customer_ID": 14,
+	"Order_date": "2020-06-19T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 8,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 10824,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 7000
+}, {
+	"Order_ID": 95,
+	"Customer_ID": 15,
+	"Order_date": "2020-09-23T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 10,
+		"Type": "CD",
+		"Price": 12.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 3,
+		"From_store_or_warehouse": 2
+	}, {
+		"Product_ID": 39,
+		"Type": "Book",
+		"Price": 12.99,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 4,
+		"From_store_or_warehouse": 5
+	}],
+	"Total_Order_Price": 211.46,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 87.63
+}, {
+	"Order_ID": 96,
+	"Customer_ID": 16,
+	"Order_date": "2022-10-22T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 52,
+		"Type": "Fresh Product",
+		"Price": 0.1,
+		"Quantity": 8,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 5,
+		"From_store_or_warehouse": 3
+	}, {
+		"Product_ID": 22,
+		"Type": "Home_Appliance",
+		"Price": 1353,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 27,
+		"Type": "Home_Appliance",
+		"Price": 42,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 7146.25,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 4529.59
+}, {
+	"Order_ID": 97,
+	"Customer_ID": 17,
+	"Order_date": "2021-01-17T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 30,
+		"Type": "Home_Appliance",
+		"Price": 675,
+		"Quantity": 4,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 8,
+		"Type": "CD",
+		"Price": 9.99,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 24,
+		"Type": "Home_Appliance",
+		"Price": 430,
+		"Quantity": 1,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 3139.99,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 1155.99
+}, {
+	"Order_ID": 98,
+	"Customer_ID": 18,
+	"Order_date": "2020-03-23T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 6,
+		"Type": "CD",
+		"Price": 16.99,
+		"Quantity": 9,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 152.91,
+	"Partner_ID": 2,
+	"Total_Order_Cost": 53.91
+}, {
+	"Order_ID": 99,
+	"Customer_ID": 19,
+	"Order_date": "2021-09-10T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 30,
+		"Type": "Home_Appliance",
+		"Price": 675,
+		"Quantity": 7,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 47,
+		"Type": "Fresh Product",
+		"Price": 2.0,
+		"Quantity": 4,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 45,
+		"Type": "Fresh Product",
+		"Price": 0.83,
+		"Quantity": 3,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 39,
+		"Type": "Book",
+		"Price": 12.99,
+		"Quantity": 5,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 3,
+		"From_store_or_warehouse": 3
+	}],
+	"Total_Order_Price": 4803.44,
+	"Partner_ID": 4,
+	"Total_Order_Cost": 1784.11
+}, {
+	"Order_ID": 100,
+	"Customer_ID": 20,
+	"Order_date": "2020-11-09T00:00:00",
+	"Ordered_items": [{
+		"Product_ID": 49,
+		"Type": "Fresh Product",
+		"Price": 1.0,
+		"Quantity": 7,
+		"From_store_or_warehouse": 1
+	}, {
+		"Product_ID": 18,
+		"Type": "Mobile_Phone",
+		"Price": 865,
+		"Quantity": 10,
+		"From_store_or_warehouse": 6
+	}, {
+		"Product_ID": 41,
+		"Type": "Fresh Product",
+		"Price": 0.49,
+		"Quantity": 10,
+		"From_store_or_warehouse": 4
+	}, {
+		"Product_ID": 40,
+		"Type": "Book",
+		"Price": 16.99,
+		"Quantity": 3,
+		"From_store_or_warehouse": 6
+	}],
+	"Total_Order_Price": 8712.87,
+	"Partner_ID": 5,
+	"Total_Order_Cost": 2784.44
+}]

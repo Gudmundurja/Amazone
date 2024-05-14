@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63bb318149495cc6cfe1ff95"
+  },
+  "Storage_warehouse_id": 6,
+  "Storage_warehouse_name": "Beatty LLC",
+  "Address": {
+    "House_number": "5652",
+    "Street": "11901 Thackeray Hill",
+    "City": "Manchester",
+    "Postcode": "M3 5JW"
+  },
+  "Location": {
+    "Longitude": -2.25882,
+    "Latitude": 53.481948
+  }
+}]

@@ -1,0 +1,223 @@
+[{
+  "_id": 3,
+  "Customer_ID": 12,
+  "Date": "2022-02-28",
+  "Status": "active",
+  "items": [
+    {
+      "total_quantity": 4,
+      "total_cost": 380.16,
+      "items_in_cart": [
+        {
+          "_id": 1,
+          "Product_id": 38,
+          "Name": "Mat Lam Tam",
+          "Category": "Book",
+          "average_customer_ratings": 2,
+          "Price": 25.99,
+          "Quantity": 1
+        },
+        {
+          "_id": 2,
+          "Product_id": 54,
+          "Name": "SeaWeed",
+          "Category": "Fruits and Vegetables",
+          "average_customer_ratings": 5,
+          "Price": 0.4,
+          "Quantity": 2
+        },
+        {
+          "_id": 3,
+          "Product_id": 17,
+          "Name": "Sony",
+          "Category": "Mobile_Phone",
+          "average_customer_ratings": 5,
+          "Price": 915,
+          "Quantity": 1
+        }
+      ]
+    }
+  ]
+},{
+  "_id": 5,
+  "Customer_ID": 15,
+  "Date": "2022-10-28",
+  "Status": "active",
+  "items": [
+    {
+      "total_quantity": 1,
+      "total_cost": 99,
+      "items_in_cart": [
+        {
+          "_id": 1,
+          "Product_id": 29,
+          "Name": "Washing Machine",
+          "Category": "Home Appliances",
+          "average_customer_ratings": 1,
+          "Price": 275,
+          "Quantity": 1
+        }
+      ]
+    }
+  ]
+},{
+  "_id": 6,
+  "Customer_ID": 6,
+  "Date": "2022-11-23",
+  "Status": "active",
+  "items": [
+    {
+      "total_quantity": 6,
+      "total_cost": 7.98,
+      "items_in_cart": [
+        {
+          "_id": 1,
+          "Product_id": 48,
+          "Name": "Lemonade",
+          "Category": "Drinks",
+          "average_customer_ratings": 3,
+          "Price": 1.9,
+          "Quantity": 2
+        },
+        {
+          "_id": 2,
+          "Product_id": 47,
+          "Name": "Coca Cola",
+          "Category": "Drinks",
+          "average_customer_ratings": 5,
+          "Price": 2,
+          "Quantity": 2
+        },
+        {
+          "_id": 3,
+          "Product_id": 43,
+          "Name": "White Tiger Loaf",
+          "Category": "Bakery",
+          "average_customer_ratings": 5,
+          "Price": 0.89,
+          "Quantity": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": 1,
+  "Customer_ID": 1,
+  "Date": "2022-09-23",
+  "Status": "expired",
+  "items": [
+    {
+      "total_quantity": 1,
+      "total_cost": 5.99,
+      "items_in_cart": [
+        {
+          "_id": 1,
+          "Product_id": 37,
+          "Name": "Sonsing",
+          "Category": "Books",
+          "average_customer_ratings": 5,
+          "Price": 9.99,
+          "Quantity": 1
+        }
+      ]
+    }
+  ]
+},{
+  "_id": 2,
+  "Customer_ID": 2,
+  "Date": "2022-09-28",
+  "Status": "expired",
+  "items": [
+    {
+      "total_quantity": 11,
+      "total_cost": 26.3,
+      "items_in_cart": [
+        {
+          "_id": 1,
+          "Product_id": 55,
+          "Name": "Potato",
+          "Category": "Fruits and Vegetables”",
+          "average_customer_ratings": 2,
+          "Price": 0.6,
+          "Quantity": 2
+        },
+        {
+          "_id": 2,
+          "Product_id": 4,
+          "Name": "The Colour and the shape",
+          "Category": "CD",
+          "average_customer_ratings": 2,
+          "Price": 10.99,
+          "Quantity": 1
+        },
+        {
+          "_id": 3,
+          "Product_id": 5,
+          "Name": "Appetite for Destruction",
+          "Category": "CD",
+          "average_customer_ratings": 1,
+          "Price": 10.99,
+          "Quantity": 1
+        },
+        {
+          "_id": 4,
+          "Product_id": 42,
+          "Name": "Cheese Twist",
+          "Category": "Bakery",
+          "average_customer_ratings": 5,
+          "Price": 0.49,
+          "Quantity": 4
+        },
+        {
+          "_id": 5,
+          "Product_id": 53,
+          "Name": "Plum",
+          "Category": "Fruits and vegetables",
+          "average_customer_ratings": 2,
+          "Price": 0.2,
+          "Quantity": 1
+        },
+        {
+          "_id": 6,
+          "Product_id": 2,
+          "Name": "Stadium Arcadium",
+          "Category": "CD",
+          "average_customer_ratings": 3,
+          "Price": 14.99,
+          "Quantity": 1
+        },
+        {
+          "_id": 7,
+          "Product_id": 37,
+          "Name": "Sonsing",
+          "Category": "Books",
+          "average_customer_ratings": 5,
+          "Price": 9.99,
+          "Quantity": 1
+        }
+      ]
+    }
+  ]
+},{
+  "_id": 4,
+  "Customer_ID": 6,
+  "Date": "2022-09-02",
+  "Status": "expired",
+  "items": [
+    {
+      "total_quantity": 2,
+      "total_cost": 310,
+      "items_in_cart": [
+        {
+          "_id": 1,
+          "Product_id": 25,
+          "Name": "Refrigerator",
+          "Category": "Home Appliances",
+          "average_customer_ratings": 2,
+          "Price": 510,
+          "Quantity": 2
+        }
+      ]
+    }
+  ]
+}]

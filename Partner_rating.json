@@ -1,0 +1,471 @@
+[{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe40"
+  },
+  "Partner_Rating_ID": 1,
+  "Partner_ID": 4,
+  "Customer_ID": 20,
+  "Order_ID": 120,
+  "Rating_Date": "2022-12-22",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe41"
+  },
+  "Partner_Rating_ID": 2,
+  "Partner_ID": 3,
+  "Customer_ID": 8,
+  "Order_ID": 48,
+  "Rating_Date": "2022-09-08",
+  "Partner_Rating": 2
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe42"
+  },
+  "Partner_Rating_ID": 3,
+  "Partner_ID": 2,
+  "Customer_ID": 14,
+  "Order_ID": 94,
+  "Rating_Date": "2022-02-22",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe43"
+  },
+  "Partner_Rating_ID": 4,
+  "Partner_ID": 5,
+  "Customer_ID": 4,
+  "Order_ID": 104,
+  "Rating_Date": "2022-23-12",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe44"
+  },
+  "Partner_Rating_ID": 5,
+  "Partner_ID": 5,
+  "Customer_ID": 4,
+  "Order_ID": 24,
+  "Rating_Date": "2022-09-01",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe45"
+  },
+  "Partner_Rating_ID": 6,
+  "Partner_ID": 4,
+  "Customer_ID": 15,
+  "Order_ID": 75,
+  "Rating_Date": "2022-06-24",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe46"
+  },
+  "Partner_Rating_ID": 7,
+  "Partner_ID": 1,
+  "Customer_ID": 19,
+  "Order_ID": 19,
+  "Rating_Date": "2022-10-31",
+  "Partner_Rating": 2
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe47"
+  },
+  "Partner_Rating_ID": 8,
+  "Partner_ID": 3,
+  "Customer_ID": 5,
+  "Order_ID": 5,
+  "Rating_Date": "2022-09-23",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe48"
+  },
+  "Partner_Rating_ID": 9,
+  "Partner_ID": 2,
+  "Customer_ID": 8,
+  "Order_ID": 128,
+  "Rating_Date": "2022-12-22",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe49"
+  },
+  "Partner_Rating_ID": 10,
+  "Partner_ID": 1,
+  "Customer_ID": 20,
+  "Order_ID": 140,
+  "Rating_Date": "2022-12-22",
+  "Partner_Rating": 2
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe4a"
+  },
+  "Partner_Rating_ID": 11,
+  "Partner_ID": 1,
+  "Customer_ID": 7,
+  "Order_ID": 7,
+  "Rating_Date": "2022-07-21",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe4b"
+  },
+  "Partner_Rating_ID": 12,
+  "Partner_ID": 1,
+  "Customer_ID": 1,
+  "Order_ID": 101,
+  "Rating_Date": "2022-12-23",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe4c"
+  },
+  "Partner_Rating_ID": 13,
+  "Partner_ID": 4,
+  "Customer_ID": 1,
+  "Order_ID": 121,
+  "Rating_Date": "2022-12-19",
+  "Partner_Rating": 2
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe4d"
+  },
+  "Partner_Rating_ID": 14,
+  "Partner_ID": 3,
+  "Customer_ID": 2,
+  "Order_ID": 122,
+  "Rating_Date": "2022-12-29",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe4e"
+  },
+  "Partner_Rating_ID": 15,
+  "Partner_ID": 3,
+  "Customer_ID": 7,
+  "Order_ID": 27,
+  "Rating_Date": "2022-03-13",
+  "Partner_Rating": 2
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe4f"
+  },
+  "Partner_Rating_ID": 16,
+  "Partner_ID": 3,
+  "Customer_ID": 8,
+  "Order_ID": 88,
+  "Rating_Date": "2022-09-09",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe50"
+  },
+  "Partner_Rating_ID": 17,
+  "Partner_ID": 5,
+  "Customer_ID": 17,
+  "Order_ID": 90,
+  "Rating_Date": "2022-09-14",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe51"
+  },
+  "Partner_Rating_ID": 18,
+  "Partner_ID": 5,
+  "Customer_ID": 13,
+  "Order_ID": 73,
+  "Rating_Date": "2022-06-24",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe52"
+  },
+  "Partner_Rating_ID": 19,
+  "Partner_ID": 4,
+  "Customer_ID": 14,
+  "Order_ID": 54,
+  "Rating_Date": "2022-05-31",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe53"
+  },
+  "Partner_Rating_ID": 20,
+  "Partner_ID": 3,
+  "Customer_ID": 7,
+  "Order_ID": 87,
+  "Rating_Date": "2022-03-09",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe54"
+  },
+  "Partner_Rating_ID": 21,
+  "Partner_ID": 5,
+  "Customer_ID": 14,
+  "Order_ID": 54,
+  "Rating_Date": "31/05/2022",
+  "Partner_Rating": 2
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe55"
+  },
+  "Partner_Rating_ID": 22,
+  "Partner_ID": 1,
+  "Customer_ID": 17,
+  "Order_ID": 72,
+  "Rating_Date": "02/02/2022",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe56"
+  },
+  "Partner_Rating_ID": 23,
+  "Partner_ID": 4,
+  "Customer_ID": 14,
+  "Order_ID": 14,
+  "Rating_Date": "27/11/2022",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe57"
+  },
+  "Partner_Rating_ID": 24,
+  "Partner_ID": 4,
+  "Customer_ID": 9,
+  "Order_ID": 9,
+  "Rating_Date": "21/07/2022",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe58"
+  },
+  "Partner_Rating_ID": 25,
+  "Partner_ID": 3,
+  "Customer_ID": 14,
+  "Order_ID": 34,
+  "Rating_Date": "16/07/2022",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe59"
+  },
+  "Partner_Rating_ID": 26,
+  "Partner_ID": 4,
+  "Customer_ID": 15,
+  "Order_ID": 15,
+  "Rating_Date": "27/11/2022",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe5a"
+  },
+  "Partner_Rating_ID": 27,
+  "Partner_ID": 4,
+  "Customer_ID": 8,
+  "Order_ID": 48,
+  "Rating_Date": "08/09/2022",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe5b"
+  },
+  "Partner_Rating_ID": 28,
+  "Partner_ID": 2,
+  "Customer_ID": 17,
+  "Order_ID": 57,
+  "Rating_Date": "25/09/2022",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe5c"
+  },
+  "Partner_Rating_ID": 29,
+  "Partner_ID": 1,
+  "Customer_ID": 18,
+  "Order_ID": 94,
+  "Rating_Date": "23/09/2022",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe5d"
+  },
+  "Partner_Rating_ID": 33,
+  "Partner_ID": 1,
+  "Customer_ID": 14,
+  "Order_ID": 93,
+  "Rating_Date": "22/02/2022",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe5e"
+  },
+  "Partner_Rating_ID": 34,
+  "Partner_ID": 2,
+  "Customer_ID": 7,
+  "Order_ID": 7,
+  "Rating_Date": "21/07/2022",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe5f"
+  },
+  "Partner_Rating_ID": 35,
+  "Partner_ID": 5,
+  "Customer_ID": 4,
+  "Order_ID": 124,
+  "Rating_Date": "24/12/2022",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe60"
+  },
+  "Partner_Rating_ID": 36,
+  "Partner_ID": 5,
+  "Customer_ID": 19,
+  "Order_ID": 139,
+  "Rating_Date": "22/12/2022",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe61"
+  },
+  "Partner_Rating_ID": 37,
+  "Partner_ID": 5,
+  "Customer_ID": 5,
+  "Order_ID": 125,
+  "Rating_Date": "19/12/2022",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe62"
+  },
+  "Partner_Rating_ID": 38,
+  "Partner_ID": 4,
+  "Customer_ID": 14,
+  "Order_ID": 114,
+  "Rating_Date": "17/12/2022",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe63"
+  },
+  "Partner_Rating_ID": 39,
+  "Partner_ID": 4,
+  "Customer_ID": 10,
+  "Order_ID": 64,
+  "Rating_Date": "23/09/2022",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe64"
+  },
+  "Partner_Rating_ID": 40,
+  "Partner_ID": 4,
+  "Customer_ID": 4,
+  "Order_ID": 51,
+  "Rating_Date": "29/12/2022",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe65"
+  },
+  "Partner_Rating_ID": 41,
+  "Partner_ID": 2,
+  "Customer_ID": 9,
+  "Order_ID": 89,
+  "Rating_Date": "09/09/2022",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe66"
+  },
+  "Partner_Rating_ID": 42,
+  "Partner_ID": 4,
+  "Customer_ID": 13,
+  "Order_ID": 133,
+  "Rating_Date": "17/12/2022",
+  "Partner_Rating": 1
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe67"
+  },
+  "Partner_Rating_ID": 43,
+  "Partner_ID": 4,
+  "Customer_ID": 15,
+  "Order_ID": 135,
+  "Rating_Date": "28/12/2022",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe68"
+  },
+  "Partner_Rating_ID": 44,
+  "Partner_ID": 3,
+  "Customer_ID": 20,
+  "Order_ID": 20,
+  "Rating_Date": "30/10/2022",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe69"
+  },
+  "Partner_Rating_ID": 45,
+  "Partner_ID": 5,
+  "Customer_ID": 4,
+  "Order_ID": 44,
+  "Rating_Date": "19/01/2022",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe6a"
+  },
+  "Partner_Rating_ID": 46,
+  "Partner_ID": 4,
+  "Customer_ID": 8,
+  "Order_ID": 8,
+  "Rating_Date": "21/07/2022",
+  "Partner_Rating": 2
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe6b"
+  },
+  "Partner_Rating_ID": 47,
+  "Partner_ID": 2,
+  "Customer_ID": 2,
+  "Order_ID": 42,
+  "Rating_Date": "19/01/2022",
+  "Partner_Rating": 3
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe6c"
+  },
+  "Partner_Rating_ID": 48,
+  "Partner_ID": 2,
+  "Customer_ID": 2,
+  "Order_ID": 82,
+  "Rating_Date": "07/07/2022",
+  "Partner_Rating": 5
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe6d"
+  },
+  "Partner_Rating_ID": 49,
+  "Partner_ID": 4,
+  "Customer_ID": 14,
+  "Order_ID": 114,
+  "Rating_Date": "17/12/2022",
+  "Partner_Rating": 4
+},{
+  "_id": {
+    "$oid": "63bb0a9f49495cc6cfe1fe6e"
+  },
+  "Partner_Rating_ID": 50,
+  "Partner_ID": 5,
+  "Customer_ID": 19,
+  "Order_ID": 39,
+  "Rating_Date": "04/11/2022",
+  "Partner_Rating": 2
+}]

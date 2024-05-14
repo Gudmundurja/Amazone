@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63bb042649495cc6cfe1fddc"
+  },
+  "Store_ID": 1,
+  "Name": "Morrisons",
+  "Address": {
+    "House_Number": "1",
+    "Street": "Churchill Way",
+    "City": "Salford",
+    "Postcode": "M6 5BU"
+  },
+  "Location": {
+    "Longitude": -2.288206,
+    "Latitude": 53.486575
+  }
+},{
+  "_id": {
+    "$oid": "63bb042649495cc6cfe1fddd"
+  },
+  "Store_ID": 2,
+  "Name": "Morrisons",
+  "Address": {
+    "House_Number": "7",
+    "Street": "Rolls Crescent",
+    "City": "Manchester",
+    "Postcode": "M15 5FT"
+  },
+  "Location": {
+    "Longitude": -2.248316,
+    "Latitude": 53.46585
+  }
+},{
+  "_id": {
+    "$oid": "63bb042649495cc6cfe1fdde"
+  },
+  "Store_ID": 3,
+  "Name": "Morrison",
+  "Address": {
+    "House_Number": "14",
+    "Street": "Princess Street",
+    "City": "Manchester",
+    "Postcode": "M60 4LH"
+  },
+  "Location": {
+    "Longitude": -2.237787,
+    "Latitude": 53.475065
+  }
+},{
+  "_id": {
+    "$oid": "63bb042649495cc6cfe1fddf"
+  },
+  "Store_ID": 4,
+  "Name": "Morrison",
+  "Address": {
+    "House_Number": 23,
+    "Street": "Oxford Road",
+    "City": "Manchester",
+    "Postcode": "M5 1LH"
+  },
+  "Location": {
+    "Longitude": -2.227815,
+    "Latitude": 53.459632
+  }
+},{
+  "_id": {
+    "$oid": "63bb042649495cc6cfe1fde0"
+  },
+  "Store_ID": 5,
+  "Name": "Morrison",
+  "Address": {
+    "House_Number": 3,
+    "Street": "Boyle Street",
+    "City": "Manchester",
+    "Postcode": "M8 8UW"
+  },
+  "Location": {
+    "Longitude": -2.234108,
+    "Latitude": 53.502419
+  }
+}]

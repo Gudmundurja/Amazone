@@ -1,0 +1,1651 @@
+[{
+	"Product_rating_ID": 1,
+	"Product_ID": 1,
+	"Customer_ID": 1,
+	"Rating_date": "2020-02-23T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 2,
+	"Product_ID": 2,
+	"Customer_ID": 2,
+	"Rating_date": "2021-11-13T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 3,
+	"Product_ID": 3,
+	"Customer_ID": 3,
+	"Rating_date": "2022-12-14T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 4,
+	"Product_ID": 4,
+	"Customer_ID": 4,
+	"Rating_date": "2021-07-29T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 5,
+	"Product_ID": 5,
+	"Customer_ID": 5,
+	"Rating_date": "2020-12-29T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 6,
+	"Product_ID": 6,
+	"Customer_ID": 6,
+	"Rating_date": "2020-03-02T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 7,
+	"Product_ID": 7,
+	"Customer_ID": 7,
+	"Rating_date": "2022-10-18T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 8,
+	"Product_ID": 8,
+	"Customer_ID": 8,
+	"Rating_date": "2020-04-30T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 9,
+	"Product_ID": 9,
+	"Customer_ID": 9,
+	"Rating_date": "2021-07-17T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 10,
+	"Product_ID": 10,
+	"Customer_ID": 10,
+	"Rating_date": "2020-09-30T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 11,
+	"Product_ID": 11,
+	"Customer_ID": 11,
+	"Rating_date": "2020-04-01T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 12,
+	"Product_ID": 12,
+	"Customer_ID": 12,
+	"Rating_date": "2022-03-13T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 13,
+	"Product_ID": 13,
+	"Customer_ID": 13,
+	"Rating_date": "2021-08-26T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 14,
+	"Product_ID": 14,
+	"Customer_ID": 14,
+	"Rating_date": "2022-09-28T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 15,
+	"Product_ID": 15,
+	"Customer_ID": 15,
+	"Rating_date": "2022-07-09T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 16,
+	"Product_ID": 16,
+	"Customer_ID": 16,
+	"Rating_date": "2020-07-25T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 17,
+	"Product_ID": 17,
+	"Customer_ID": 17,
+	"Rating_date": "2020-08-25T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 18,
+	"Product_ID": 18,
+	"Customer_ID": 18,
+	"Rating_date": "2022-07-02T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 19,
+	"Product_ID": 19,
+	"Customer_ID": 19,
+	"Rating_date": "2022-12-21T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 20,
+	"Product_ID": 20,
+	"Customer_ID": 20,
+	"Rating_date": "2021-12-02T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 21,
+	"Product_ID": 21,
+	"Customer_ID": 1,
+	"Rating_date": "2020-07-09T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 22,
+	"Product_ID": 22,
+	"Customer_ID": 2,
+	"Rating_date": "2020-07-08T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 23,
+	"Product_ID": 23,
+	"Customer_ID": 3,
+	"Rating_date": "2020-06-13T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 24,
+	"Product_ID": 24,
+	"Customer_ID": 4,
+	"Rating_date": "2021-05-16T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 25,
+	"Product_ID": 25,
+	"Customer_ID": 5,
+	"Rating_date": "2020-12-04T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 26,
+	"Product_ID": 26,
+	"Customer_ID": 6,
+	"Rating_date": "2022-05-21T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 27,
+	"Product_ID": 27,
+	"Customer_ID": 7,
+	"Rating_date": "2020-07-30T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 28,
+	"Product_ID": 28,
+	"Customer_ID": 8,
+	"Rating_date": "2021-04-20T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 29,
+	"Product_ID": 29,
+	"Customer_ID": 9,
+	"Rating_date": "2020-10-17T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 30,
+	"Product_ID": 30,
+	"Customer_ID": 10,
+	"Rating_date": "2021-04-30T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 31,
+	"Product_ID": 31,
+	"Customer_ID": 11,
+	"Rating_date": "2020-08-20T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 32,
+	"Product_ID": 32,
+	"Customer_ID": 12,
+	"Rating_date": "2020-12-11T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 33,
+	"Product_ID": 33,
+	"Customer_ID": 13,
+	"Rating_date": "2021-02-04T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 34,
+	"Product_ID": 34,
+	"Customer_ID": 14,
+	"Rating_date": "2022-04-16T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 35,
+	"Product_ID": 35,
+	"Customer_ID": 15,
+	"Rating_date": "2021-07-02T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 36,
+	"Product_ID": 36,
+	"Customer_ID": 16,
+	"Rating_date": "2020-05-28T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 37,
+	"Product_ID": 37,
+	"Customer_ID": 17,
+	"Rating_date": "2021-04-03T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 38,
+	"Product_ID": 38,
+	"Customer_ID": 18,
+	"Rating_date": "2021-10-12T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 39,
+	"Product_ID": 39,
+	"Customer_ID": 19,
+	"Rating_date": "2022-07-21T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 40,
+	"Product_ID": 40,
+	"Customer_ID": 20,
+	"Rating_date": "2020-11-15T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 41,
+	"Product_ID": 41,
+	"Customer_ID": 1,
+	"Rating_date": "2020-06-09T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 42,
+	"Product_ID": 42,
+	"Customer_ID": 2,
+	"Rating_date": "2021-09-03T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 43,
+	"Product_ID": 43,
+	"Customer_ID": 3,
+	"Rating_date": "2021-02-15T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 44,
+	"Product_ID": 44,
+	"Customer_ID": 4,
+	"Rating_date": "2020-03-16T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 45,
+	"Product_ID": 45,
+	"Customer_ID": 5,
+	"Rating_date": "2022-01-02T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 46,
+	"Product_ID": 46,
+	"Customer_ID": 6,
+	"Rating_date": "2022-04-05T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 47,
+	"Product_ID": 47,
+	"Customer_ID": 7,
+	"Rating_date": "2021-12-16T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 48,
+	"Product_ID": 48,
+	"Customer_ID": 8,
+	"Rating_date": "2021-03-04T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 49,
+	"Product_ID": 49,
+	"Customer_ID": 9,
+	"Rating_date": "2021-09-13T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 50,
+	"Product_ID": 50,
+	"Customer_ID": 10,
+	"Rating_date": "2022-09-08T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 51,
+	"Product_ID": 51,
+	"Customer_ID": 11,
+	"Rating_date": "2022-02-20T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 52,
+	"Product_ID": 52,
+	"Customer_ID": 12,
+	"Rating_date": "2020-08-25T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 53,
+	"Product_ID": 53,
+	"Customer_ID": 13,
+	"Rating_date": "2020-12-31T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 54,
+	"Product_ID": 54,
+	"Customer_ID": 14,
+	"Rating_date": "2022-10-10T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 55,
+	"Product_ID": 55,
+	"Customer_ID": 15,
+	"Rating_date": "2021-05-02T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 56,
+	"Product_ID": 1,
+	"Customer_ID": 16,
+	"Rating_date": "2020-07-06T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 57,
+	"Product_ID": 2,
+	"Customer_ID": 17,
+	"Rating_date": "2020-12-29T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 58,
+	"Product_ID": 3,
+	"Customer_ID": 18,
+	"Rating_date": "2022-10-02T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 59,
+	"Product_ID": 4,
+	"Customer_ID": 19,
+	"Rating_date": "2021-10-10T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 60,
+	"Product_ID": 5,
+	"Customer_ID": 20,
+	"Rating_date": "2021-02-20T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 61,
+	"Product_ID": 6,
+	"Customer_ID": 1,
+	"Rating_date": "2022-08-26T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 62,
+	"Product_ID": 7,
+	"Customer_ID": 2,
+	"Rating_date": "2020-07-22T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 63,
+	"Product_ID": 8,
+	"Customer_ID": 3,
+	"Rating_date": "2021-09-27T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 64,
+	"Product_ID": 9,
+	"Customer_ID": 4,
+	"Rating_date": "2021-03-13T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 65,
+	"Product_ID": 10,
+	"Customer_ID": 5,
+	"Rating_date": "2022-08-31T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 66,
+	"Product_ID": 11,
+	"Customer_ID": 6,
+	"Rating_date": "2021-06-12T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 67,
+	"Product_ID": 12,
+	"Customer_ID": 7,
+	"Rating_date": "2021-10-15T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 68,
+	"Product_ID": 13,
+	"Customer_ID": 8,
+	"Rating_date": "2020-04-26T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 69,
+	"Product_ID": 14,
+	"Customer_ID": 9,
+	"Rating_date": "2020-02-05T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 70,
+	"Product_ID": 15,
+	"Customer_ID": 10,
+	"Rating_date": "2021-10-09T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 71,
+	"Product_ID": 16,
+	"Customer_ID": 11,
+	"Rating_date": "2022-02-19T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 72,
+	"Product_ID": 17,
+	"Customer_ID": 12,
+	"Rating_date": "2022-06-25T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 73,
+	"Product_ID": 18,
+	"Customer_ID": 13,
+	"Rating_date": "2022-05-17T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 74,
+	"Product_ID": 19,
+	"Customer_ID": 14,
+	"Rating_date": "2020-01-07T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 75,
+	"Product_ID": 20,
+	"Customer_ID": 15,
+	"Rating_date": "2022-03-15T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 76,
+	"Product_ID": 21,
+	"Customer_ID": 16,
+	"Rating_date": "2020-09-07T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 77,
+	"Product_ID": 22,
+	"Customer_ID": 17,
+	"Rating_date": "2020-01-18T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 78,
+	"Product_ID": 23,
+	"Customer_ID": 18,
+	"Rating_date": "2022-05-29T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 79,
+	"Product_ID": 24,
+	"Customer_ID": 19,
+	"Rating_date": "2022-03-15T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 80,
+	"Product_ID": 25,
+	"Customer_ID": 20,
+	"Rating_date": "2022-04-27T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 81,
+	"Product_ID": 26,
+	"Customer_ID": 1,
+	"Rating_date": "2021-03-09T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 82,
+	"Product_ID": 27,
+	"Customer_ID": 2,
+	"Rating_date": "2021-07-30T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 83,
+	"Product_ID": 28,
+	"Customer_ID": 3,
+	"Rating_date": "2020-12-17T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 84,
+	"Product_ID": 29,
+	"Customer_ID": 4,
+	"Rating_date": "2022-04-26T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 85,
+	"Product_ID": 30,
+	"Customer_ID": 5,
+	"Rating_date": "2021-03-06T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 86,
+	"Product_ID": 31,
+	"Customer_ID": 6,
+	"Rating_date": "2021-06-16T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 87,
+	"Product_ID": 32,
+	"Customer_ID": 7,
+	"Rating_date": "2022-09-18T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 88,
+	"Product_ID": 33,
+	"Customer_ID": 8,
+	"Rating_date": "2020-01-10T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 89,
+	"Product_ID": 34,
+	"Customer_ID": 9,
+	"Rating_date": "2020-08-25T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 90,
+	"Product_ID": 35,
+	"Customer_ID": 10,
+	"Rating_date": "2022-06-09T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 91,
+	"Product_ID": 36,
+	"Customer_ID": 11,
+	"Rating_date": "2020-10-25T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 92,
+	"Product_ID": 37,
+	"Customer_ID": 12,
+	"Rating_date": "2020-03-26T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 93,
+	"Product_ID": 38,
+	"Customer_ID": 13,
+	"Rating_date": "2020-08-24T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 94,
+	"Product_ID": 39,
+	"Customer_ID": 14,
+	"Rating_date": "2022-03-03T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 95,
+	"Product_ID": 40,
+	"Customer_ID": 15,
+	"Rating_date": "2022-08-07T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 96,
+	"Product_ID": 41,
+	"Customer_ID": 16,
+	"Rating_date": "2020-11-02T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 97,
+	"Product_ID": 42,
+	"Customer_ID": 17,
+	"Rating_date": "2021-12-05T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 98,
+	"Product_ID": 43,
+	"Customer_ID": 18,
+	"Rating_date": "2022-11-06T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 99,
+	"Product_ID": 44,
+	"Customer_ID": 19,
+	"Rating_date": "2022-08-15T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 100,
+	"Product_ID": 45,
+	"Customer_ID": 20,
+	"Rating_date": "2021-09-04T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 101,
+	"Product_ID": 46,
+	"Customer_ID": 1,
+	"Rating_date": "2022-07-28T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 102,
+	"Product_ID": 47,
+	"Customer_ID": 2,
+	"Rating_date": "2021-10-22T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 103,
+	"Product_ID": 48,
+	"Customer_ID": 3,
+	"Rating_date": "2022-02-21T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 104,
+	"Product_ID": 49,
+	"Customer_ID": 4,
+	"Rating_date": "2021-02-15T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 105,
+	"Product_ID": 50,
+	"Customer_ID": 5,
+	"Rating_date": "2021-02-02T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 106,
+	"Product_ID": 51,
+	"Customer_ID": 6,
+	"Rating_date": "2021-06-11T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 107,
+	"Product_ID": 52,
+	"Customer_ID": 7,
+	"Rating_date": "2020-11-04T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 108,
+	"Product_ID": 53,
+	"Customer_ID": 8,
+	"Rating_date": "2022-11-05T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 109,
+	"Product_ID": 54,
+	"Customer_ID": 9,
+	"Rating_date": "2020-07-21T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 110,
+	"Product_ID": 55,
+	"Customer_ID": 10,
+	"Rating_date": "2022-12-07T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 111,
+	"Product_ID": 1,
+	"Customer_ID": 11,
+	"Rating_date": "2022-03-18T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 112,
+	"Product_ID": 2,
+	"Customer_ID": 12,
+	"Rating_date": "2020-03-21T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 113,
+	"Product_ID": 3,
+	"Customer_ID": 13,
+	"Rating_date": "2021-02-22T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 114,
+	"Product_ID": 4,
+	"Customer_ID": 14,
+	"Rating_date": "2021-02-12T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 115,
+	"Product_ID": 5,
+	"Customer_ID": 15,
+	"Rating_date": "2020-11-28T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 116,
+	"Product_ID": 6,
+	"Customer_ID": 16,
+	"Rating_date": "2022-07-14T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 117,
+	"Product_ID": 7,
+	"Customer_ID": 17,
+	"Rating_date": "2020-08-24T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 118,
+	"Product_ID": 8,
+	"Customer_ID": 18,
+	"Rating_date": "2020-09-15T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 119,
+	"Product_ID": 9,
+	"Customer_ID": 19,
+	"Rating_date": "2020-02-11T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 120,
+	"Product_ID": 10,
+	"Customer_ID": 20,
+	"Rating_date": "2022-06-10T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 121,
+	"Product_ID": 11,
+	"Customer_ID": 1,
+	"Rating_date": "2021-06-23T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 122,
+	"Product_ID": 12,
+	"Customer_ID": 2,
+	"Rating_date": "2022-06-18T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 123,
+	"Product_ID": 13,
+	"Customer_ID": 3,
+	"Rating_date": "2021-07-31T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 124,
+	"Product_ID": 14,
+	"Customer_ID": 4,
+	"Rating_date": "2022-09-27T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 125,
+	"Product_ID": 15,
+	"Customer_ID": 5,
+	"Rating_date": "2022-09-08T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 126,
+	"Product_ID": 16,
+	"Customer_ID": 6,
+	"Rating_date": "2022-07-01T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 127,
+	"Product_ID": 17,
+	"Customer_ID": 7,
+	"Rating_date": "2020-07-13T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 128,
+	"Product_ID": 18,
+	"Customer_ID": 8,
+	"Rating_date": "2022-04-18T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 129,
+	"Product_ID": 19,
+	"Customer_ID": 9,
+	"Rating_date": "2022-05-15T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 130,
+	"Product_ID": 20,
+	"Customer_ID": 10,
+	"Rating_date": "2020-09-28T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 131,
+	"Product_ID": 21,
+	"Customer_ID": 11,
+	"Rating_date": "2020-01-22T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 132,
+	"Product_ID": 22,
+	"Customer_ID": 12,
+	"Rating_date": "2020-02-17T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 133,
+	"Product_ID": 23,
+	"Customer_ID": 13,
+	"Rating_date": "2020-12-06T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 134,
+	"Product_ID": 24,
+	"Customer_ID": 14,
+	"Rating_date": "2021-12-29T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 135,
+	"Product_ID": 25,
+	"Customer_ID": 15,
+	"Rating_date": "2020-09-23T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 136,
+	"Product_ID": 26,
+	"Customer_ID": 16,
+	"Rating_date": "2021-05-18T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 137,
+	"Product_ID": 27,
+	"Customer_ID": 17,
+	"Rating_date": "2022-05-24T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 138,
+	"Product_ID": 28,
+	"Customer_ID": 18,
+	"Rating_date": "2021-02-06T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 139,
+	"Product_ID": 29,
+	"Customer_ID": 19,
+	"Rating_date": "2022-01-05T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 140,
+	"Product_ID": 30,
+	"Customer_ID": 20,
+	"Rating_date": "2020-05-18T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 141,
+	"Product_ID": 31,
+	"Customer_ID": 1,
+	"Rating_date": "2022-10-15T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 142,
+	"Product_ID": 32,
+	"Customer_ID": 2,
+	"Rating_date": "2021-08-23T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 143,
+	"Product_ID": 33,
+	"Customer_ID": 3,
+	"Rating_date": "2021-05-13T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 144,
+	"Product_ID": 34,
+	"Customer_ID": 4,
+	"Rating_date": "2021-03-06T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 145,
+	"Product_ID": 35,
+	"Customer_ID": 5,
+	"Rating_date": "2022-04-29T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 146,
+	"Product_ID": 36,
+	"Customer_ID": 6,
+	"Rating_date": "2020-07-07T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 147,
+	"Product_ID": 37,
+	"Customer_ID": 7,
+	"Rating_date": "2022-02-07T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 148,
+	"Product_ID": 38,
+	"Customer_ID": 8,
+	"Rating_date": "2021-06-21T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 149,
+	"Product_ID": 39,
+	"Customer_ID": 9,
+	"Rating_date": "2022-03-06T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 150,
+	"Product_ID": 40,
+	"Customer_ID": 10,
+	"Rating_date": "2020-11-13T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 151,
+	"Product_ID": 41,
+	"Customer_ID": 11,
+	"Rating_date": "2022-12-15T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 152,
+	"Product_ID": 42,
+	"Customer_ID": 12,
+	"Rating_date": "2022-11-20T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 153,
+	"Product_ID": 43,
+	"Customer_ID": 13,
+	"Rating_date": "2021-06-01T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 154,
+	"Product_ID": 44,
+	"Customer_ID": 14,
+	"Rating_date": "2021-09-22T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 155,
+	"Product_ID": 45,
+	"Customer_ID": 15,
+	"Rating_date": "2022-12-12T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 156,
+	"Product_ID": 46,
+	"Customer_ID": 16,
+	"Rating_date": "2020-03-14T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 157,
+	"Product_ID": 47,
+	"Customer_ID": 17,
+	"Rating_date": "2022-06-28T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 158,
+	"Product_ID": 48,
+	"Customer_ID": 18,
+	"Rating_date": "2020-11-21T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 159,
+	"Product_ID": 49,
+	"Customer_ID": 19,
+	"Rating_date": "2021-04-11T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 160,
+	"Product_ID": 50,
+	"Customer_ID": 20,
+	"Rating_date": "2020-02-27T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 161,
+	"Product_ID": 51,
+	"Customer_ID": 1,
+	"Rating_date": "2022-08-02T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 162,
+	"Product_ID": 52,
+	"Customer_ID": 2,
+	"Rating_date": "2022-04-14T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 163,
+	"Product_ID": 53,
+	"Customer_ID": 3,
+	"Rating_date": "2020-07-29T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 164,
+	"Product_ID": 54,
+	"Customer_ID": 4,
+	"Rating_date": "2022-11-07T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 165,
+	"Product_ID": 55,
+	"Customer_ID": 5,
+	"Rating_date": "2021-03-29T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 166,
+	"Product_ID": 1,
+	"Customer_ID": 6,
+	"Rating_date": "2022-04-25T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 167,
+	"Product_ID": 2,
+	"Customer_ID": 7,
+	"Rating_date": "2021-02-09T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 168,
+	"Product_ID": 3,
+	"Customer_ID": 8,
+	"Rating_date": "2021-10-16T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 169,
+	"Product_ID": 4,
+	"Customer_ID": 9,
+	"Rating_date": "2022-02-12T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 170,
+	"Product_ID": 5,
+	"Customer_ID": 10,
+	"Rating_date": "2021-03-19T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 171,
+	"Product_ID": 6,
+	"Customer_ID": 11,
+	"Rating_date": "2022-01-08T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 172,
+	"Product_ID": 7,
+	"Customer_ID": 12,
+	"Rating_date": "2022-05-15T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 173,
+	"Product_ID": 8,
+	"Customer_ID": 13,
+	"Rating_date": "2021-06-05T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 174,
+	"Product_ID": 9,
+	"Customer_ID": 14,
+	"Rating_date": "2021-09-30T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 175,
+	"Product_ID": 10,
+	"Customer_ID": 15,
+	"Rating_date": "2022-08-15T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 176,
+	"Product_ID": 11,
+	"Customer_ID": 16,
+	"Rating_date": "2020-10-05T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 177,
+	"Product_ID": 12,
+	"Customer_ID": 17,
+	"Rating_date": "2022-08-01T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 178,
+	"Product_ID": 13,
+	"Customer_ID": 18,
+	"Rating_date": "2022-03-27T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 179,
+	"Product_ID": 14,
+	"Customer_ID": 19,
+	"Rating_date": "2022-05-05T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 180,
+	"Product_ID": 15,
+	"Customer_ID": 20,
+	"Rating_date": "2020-01-31T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 181,
+	"Product_ID": 16,
+	"Customer_ID": 1,
+	"Rating_date": "2022-12-29T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 182,
+	"Product_ID": 17,
+	"Customer_ID": 2,
+	"Rating_date": "2021-03-06T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 183,
+	"Product_ID": 18,
+	"Customer_ID": 3,
+	"Rating_date": "2020-09-10T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 184,
+	"Product_ID": 19,
+	"Customer_ID": 4,
+	"Rating_date": "2021-05-04T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 185,
+	"Product_ID": 20,
+	"Customer_ID": 5,
+	"Rating_date": "2020-10-31T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 186,
+	"Product_ID": 21,
+	"Customer_ID": 6,
+	"Rating_date": "2021-08-11T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 187,
+	"Product_ID": 22,
+	"Customer_ID": 7,
+	"Rating_date": "2020-12-11T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 188,
+	"Product_ID": 23,
+	"Customer_ID": 8,
+	"Rating_date": "2021-10-16T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 189,
+	"Product_ID": 24,
+	"Customer_ID": 9,
+	"Rating_date": "2020-03-09T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 190,
+	"Product_ID": 25,
+	"Customer_ID": 10,
+	"Rating_date": "2021-09-28T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 191,
+	"Product_ID": 26,
+	"Customer_ID": 11,
+	"Rating_date": "2021-09-05T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 192,
+	"Product_ID": 27,
+	"Customer_ID": 12,
+	"Rating_date": "2020-03-13T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 193,
+	"Product_ID": 28,
+	"Customer_ID": 13,
+	"Rating_date": "2022-12-29T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 194,
+	"Product_ID": 29,
+	"Customer_ID": 14,
+	"Rating_date": "2021-06-04T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 195,
+	"Product_ID": 30,
+	"Customer_ID": 15,
+	"Rating_date": "2022-01-10T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 196,
+	"Product_ID": 31,
+	"Customer_ID": 16,
+	"Rating_date": "2021-12-26T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 197,
+	"Product_ID": 32,
+	"Customer_ID": 17,
+	"Rating_date": "2020-01-27T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 198,
+	"Product_ID": 33,
+	"Customer_ID": 18,
+	"Rating_date": "2021-08-14T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 199,
+	"Product_ID": 34,
+	"Customer_ID": 19,
+	"Rating_date": "2022-12-05T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 200,
+	"Product_ID": 35,
+	"Customer_ID": 20,
+	"Rating_date": "2021-09-29T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 201,
+	"Product_ID": 36,
+	"Customer_ID": 1,
+	"Rating_date": "2022-05-05T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 202,
+	"Product_ID": 37,
+	"Customer_ID": 2,
+	"Rating_date": "2021-11-06T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 203,
+	"Product_ID": 38,
+	"Customer_ID": 3,
+	"Rating_date": "2021-04-02T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 204,
+	"Product_ID": 39,
+	"Customer_ID": 4,
+	"Rating_date": "2022-07-15T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 205,
+	"Product_ID": 40,
+	"Customer_ID": 5,
+	"Rating_date": "2022-06-06T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 206,
+	"Product_ID": 41,
+	"Customer_ID": 6,
+	"Rating_date": "2021-09-28T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 207,
+	"Product_ID": 42,
+	"Customer_ID": 7,
+	"Rating_date": "2020-08-28T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 208,
+	"Product_ID": 43,
+	"Customer_ID": 8,
+	"Rating_date": "2021-05-26T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 209,
+	"Product_ID": 44,
+	"Customer_ID": 9,
+	"Rating_date": "2022-04-07T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 210,
+	"Product_ID": 45,
+	"Customer_ID": 10,
+	"Rating_date": "2020-10-27T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 211,
+	"Product_ID": 46,
+	"Customer_ID": 11,
+	"Rating_date": "2021-05-10T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 212,
+	"Product_ID": 47,
+	"Customer_ID": 12,
+	"Rating_date": "2022-02-01T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 213,
+	"Product_ID": 48,
+	"Customer_ID": 13,
+	"Rating_date": "2021-01-05T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 214,
+	"Product_ID": 49,
+	"Customer_ID": 14,
+	"Rating_date": "2022-11-29T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 215,
+	"Product_ID": 50,
+	"Customer_ID": 15,
+	"Rating_date": "2022-09-27T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 216,
+	"Product_ID": 51,
+	"Customer_ID": 16,
+	"Rating_date": "2022-09-23T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 217,
+	"Product_ID": 52,
+	"Customer_ID": 17,
+	"Rating_date": "2021-05-28T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 218,
+	"Product_ID": 53,
+	"Customer_ID": 18,
+	"Rating_date": "2020-03-11T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 219,
+	"Product_ID": 54,
+	"Customer_ID": 19,
+	"Rating_date": "2022-03-05T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 220,
+	"Product_ID": 55,
+	"Customer_ID": 20,
+	"Rating_date": "2022-03-25T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 221,
+	"Product_ID": 1,
+	"Customer_ID": 1,
+	"Rating_date": "2021-01-11T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 222,
+	"Product_ID": 2,
+	"Customer_ID": 2,
+	"Rating_date": "2021-12-02T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 223,
+	"Product_ID": 3,
+	"Customer_ID": 3,
+	"Rating_date": "2021-03-05T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 224,
+	"Product_ID": 4,
+	"Customer_ID": 4,
+	"Rating_date": "2022-09-26T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 225,
+	"Product_ID": 5,
+	"Customer_ID": 5,
+	"Rating_date": "2022-06-26T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 226,
+	"Product_ID": 6,
+	"Customer_ID": 6,
+	"Rating_date": "2021-05-11T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 227,
+	"Product_ID": 7,
+	"Customer_ID": 7,
+	"Rating_date": "2022-04-28T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 228,
+	"Product_ID": 8,
+	"Customer_ID": 8,
+	"Rating_date": "2021-01-17T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 229,
+	"Product_ID": 9,
+	"Customer_ID": 9,
+	"Rating_date": "2021-01-12T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 230,
+	"Product_ID": 10,
+	"Customer_ID": 10,
+	"Rating_date": "2022-05-07T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 231,
+	"Product_ID": 11,
+	"Customer_ID": 11,
+	"Rating_date": "2022-08-19T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 232,
+	"Product_ID": 12,
+	"Customer_ID": 12,
+	"Rating_date": "2022-02-18T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 233,
+	"Product_ID": 13,
+	"Customer_ID": 13,
+	"Rating_date": "2022-11-17T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 234,
+	"Product_ID": 14,
+	"Customer_ID": 14,
+	"Rating_date": "2020-02-21T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 235,
+	"Product_ID": 15,
+	"Customer_ID": 15,
+	"Rating_date": "2021-03-18T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 236,
+	"Product_ID": 16,
+	"Customer_ID": 16,
+	"Rating_date": "2020-06-20T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 237,
+	"Product_ID": 17,
+	"Customer_ID": 17,
+	"Rating_date": "2021-07-20T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 238,
+	"Product_ID": 18,
+	"Customer_ID": 18,
+	"Rating_date": "2022-02-15T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 239,
+	"Product_ID": 19,
+	"Customer_ID": 19,
+	"Rating_date": "2021-09-10T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 240,
+	"Product_ID": 20,
+	"Customer_ID": 20,
+	"Rating_date": "2021-04-13T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 241,
+	"Product_ID": 21,
+	"Customer_ID": 1,
+	"Rating_date": "2021-02-07T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 242,
+	"Product_ID": 22,
+	"Customer_ID": 2,
+	"Rating_date": "2021-12-03T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 243,
+	"Product_ID": 23,
+	"Customer_ID": 3,
+	"Rating_date": "2020-08-02T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 244,
+	"Product_ID": 24,
+	"Customer_ID": 4,
+	"Rating_date": "2021-05-12T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 245,
+	"Product_ID": 25,
+	"Customer_ID": 5,
+	"Rating_date": "2020-01-28T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 246,
+	"Product_ID": 26,
+	"Customer_ID": 6,
+	"Rating_date": "2020-06-29T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 247,
+	"Product_ID": 27,
+	"Customer_ID": 7,
+	"Rating_date": "2020-12-20T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 248,
+	"Product_ID": 28,
+	"Customer_ID": 8,
+	"Rating_date": "2022-04-21T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 249,
+	"Product_ID": 29,
+	"Customer_ID": 9,
+	"Rating_date": "2021-07-22T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 250,
+	"Product_ID": 30,
+	"Customer_ID": 10,
+	"Rating_date": "2020-10-29T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 251,
+	"Product_ID": 31,
+	"Customer_ID": 11,
+	"Rating_date": "2022-08-05T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 252,
+	"Product_ID": 32,
+	"Customer_ID": 12,
+	"Rating_date": "2020-11-12T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 253,
+	"Product_ID": 33,
+	"Customer_ID": 13,
+	"Rating_date": "2021-01-06T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 254,
+	"Product_ID": 34,
+	"Customer_ID": 14,
+	"Rating_date": "2020-04-07T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 255,
+	"Product_ID": 35,
+	"Customer_ID": 15,
+	"Rating_date": "2022-10-01T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 256,
+	"Product_ID": 36,
+	"Customer_ID": 16,
+	"Rating_date": "2021-01-30T00:00:00",
+	"Product_rating": 2
+}, {
+	"Product_rating_ID": 257,
+	"Product_ID": 37,
+	"Customer_ID": 17,
+	"Rating_date": "2022-03-13T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 258,
+	"Product_ID": 38,
+	"Customer_ID": 18,
+	"Rating_date": "2020-02-28T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 259,
+	"Product_ID": 39,
+	"Customer_ID": 19,
+	"Rating_date": "2020-03-03T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 260,
+	"Product_ID": 40,
+	"Customer_ID": 20,
+	"Rating_date": "2021-03-16T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 261,
+	"Product_ID": 41,
+	"Customer_ID": 1,
+	"Rating_date": "2021-06-25T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 262,
+	"Product_ID": 42,
+	"Customer_ID": 2,
+	"Rating_date": "2020-08-24T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 263,
+	"Product_ID": 43,
+	"Customer_ID": 3,
+	"Rating_date": "2021-11-25T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 264,
+	"Product_ID": 44,
+	"Customer_ID": 4,
+	"Rating_date": "2020-08-03T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 265,
+	"Product_ID": 45,
+	"Customer_ID": 5,
+	"Rating_date": "2022-07-30T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 266,
+	"Product_ID": 46,
+	"Customer_ID": 6,
+	"Rating_date": "2021-03-31T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 267,
+	"Product_ID": 47,
+	"Customer_ID": 7,
+	"Rating_date": "2021-07-13T00:00:00",
+	"Product_rating": 1
+}, {
+	"Product_rating_ID": 268,
+	"Product_ID": 48,
+	"Customer_ID": 8,
+	"Rating_date": "2020-02-27T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 269,
+	"Product_ID": 49,
+	"Customer_ID": 9,
+	"Rating_date": "2021-01-31T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 270,
+	"Product_ID": 50,
+	"Customer_ID": 10,
+	"Rating_date": "2022-01-21T00:00:00",
+	"Product_rating": 4
+}, {
+	"Product_rating_ID": 271,
+	"Product_ID": 51,
+	"Customer_ID": 11,
+	"Rating_date": "2020-08-23T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 272,
+	"Product_ID": 52,
+	"Customer_ID": 12,
+	"Rating_date": "2022-11-26T00:00:00",
+	"Product_rating": 3
+}, {
+	"Product_rating_ID": 273,
+	"Product_ID": 53,
+	"Customer_ID": 13,
+	"Rating_date": "2022-07-29T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 274,
+	"Product_ID": 54,
+	"Customer_ID": 14,
+	"Rating_date": "2022-05-06T00:00:00",
+	"Product_rating": 5
+}, {
+	"Product_rating_ID": 275,
+	"Product_ID": 55,
+	"Customer_ID": 15,
+	"Rating_date": "2020-05-10T00:00:00",
+	"Product_rating": 4
+}]

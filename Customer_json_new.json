@@ -1,0 +1,521 @@
+[{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca0"
+  },
+  "Customer_ID": 1,
+  "gender": "F",
+  "Name": "Tracey Medina",
+  "Age": 78,
+  "Email": "TraceyMedina@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 80,
+      "Street": "Lincoln Square",
+      "City": "Manchester",
+      "Postcode": "M7Z 5HU"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 80,
+      "Street": "Lincoln Square",
+      "City": "Manchester",
+      "Postcode": "M7Z 5HU"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca1"
+  },
+  "Customer_ID": 2,
+  "gender": "F",
+  "Name": "Diana Hall",
+  "Age": 61,
+  "Email": "DianaHall@gmail.com",
+  "Billing_Address": [
+    {
+      "House_Number": 40,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 40,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca2"
+  },
+  "Customer_ID": 3,
+  "gender": "F",
+  "Name": "Lisa Navarro",
+  "Age": 19,
+  "Email": "LisaNavarro@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 52,
+      "Street": "Spring Gardens",
+      "City": "Manchester",
+      "Postcode": "M8H 2WS"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 52,
+      "Street": "Spring Gardens",
+      "City": "Manchester",
+      "Postcode": "M8H 2WS"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca3"
+  },
+  "Customer_ID": 4,
+  "gender": "M",
+  "Name": "Scott Taylor",
+  "Age": 65,
+  "Email": "ScottTaylor@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 25,
+      "Street": "Hulme Street",
+      "City": "Manchester",
+      "Postcode": "M60 5CB"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 25,
+      "Street": "Hulme Street",
+      "City": "Manchester",
+      "Postcode": "M60 5CB"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca4"
+  },
+  "Customer_ID": 5,
+  "gender": "M",
+  "Name": "Philip Davies",
+  "Age": 40,
+  "Email": "PhilipDavies@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 57,
+      "Street": "Portland Street",
+      "City": "Manchester",
+      "Postcode": "M5V 3RR"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 57,
+      "Street": "Portland Street",
+      "City": "Manchester",
+      "Postcode": "M5V 3RR"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca5"
+  },
+  "Customer_ID": 6,
+  "gender": "M",
+  "Name": "Edgar Brown",
+  "Age": 36,
+  "Email": "EdgarBrown@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 46,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 46,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca6"
+  },
+  "Customer_ID": 7,
+  "gender": "M",
+  "Name": "Jason Davilla",
+  "Age": 55,
+  "Email": "JasonDavilla@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 39,
+      "Street": "George Street",
+      "City": "Manchester",
+      "Postcode": "M8P 4EQ"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 39,
+      "Street": "George Street",
+      "City": "Manchester",
+      "Postcode": "M8P 4EQ"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca7"
+  },
+  "Customer_ID": 8,
+  "gender": "F",
+  "Name": "Michele Lopez",
+  "Age": 45,
+  "Email": "MicheleLopez@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 46,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 46,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca8"
+  },
+  "Customer_ID": 9,
+  "gender": "M",
+  "Name": "Brandon Jenkins",
+  "Age": 31,
+  "Email": "BrandonJenkins@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 80,
+      "Street": "Lincoln Square",
+      "City": "Manchester",
+      "Postcode": "M2 5LN"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 80,
+      "Street": "Lincoln Square",
+      "City": "Manchester",
+      "Postcode": "M2 5LN"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fca9"
+  },
+  "Customer_ID": 10,
+  "gender": "F",
+  "Name": "Jennifer Esparaza",
+  "Age": 51,
+  "Email": "JenniferEsparaza@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 46,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 46,
+      "Street": "Copson Street",
+      "City": "Manchester",
+      "Postcode": "M6U 2IF"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcaa"
+  },
+  "Customer_ID": 11,
+  "gender": "F",
+  "Name": "Anna Smith",
+  "Age": 65,
+  "Email": "AnnaSmith@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 95,
+      "Street": "King Street",
+      "City": "Manchester",
+      "Postcode": "M4R 1BM"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 95,
+      "Street": "King Street",
+      "City": "Manchester",
+      "Postcode": "M4R 1BM"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcab"
+  },
+  "Customer_ID": 12,
+  "gender": "M",
+  "Name": "Jeffrey Neal",
+  "Age": 64,
+  "Email": "JeffreyNeal@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 39,
+      "Street": "Geroge Street",
+      "City": "Manchester",
+      "Postcode": "M8P 4EQ"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 39,
+      "Street": "Geroge Street",
+      "City": "Manchester",
+      "Postcode": "M8P 4EQ"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcac"
+  },
+  "Customer_ID": 13,
+  "gender": "F",
+  "Name": "Jessica Snow",
+  "Age": 46,
+  "Email": "JessicaSnow@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 80,
+      "Street": "Oxford Road",
+      "City": "Manchester",
+      "Postcode": "M2E 2DL"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 80,
+      "Street": "Oxford Road",
+      "City": "Manchester",
+      "Postcode": "M2E 2DL"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcad"
+  },
+  "Customer_ID": 14,
+  "gender": "F",
+  "Name": "Stephanie Cooper",
+  "Age": 36,
+  "Email": "StephanieCooper@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 25,
+      "Street": "Hulme Street",
+      "City": "Manchester",
+      "Postcode": "M60 5CB"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 25,
+      "Street": "Hulme Street",
+      "City": "Manchester",
+      "Postcode": "M60 5CB"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcae"
+  },
+  "Customer_ID": 15,
+  "gender": "F",
+  "Name": "Debra Burke",
+  "Age": 45,
+  "Email": "DebraBurke@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 52,
+      "Street": "George Street",
+      "City": "Manchester",
+      "Postcode": "M7B 3NX"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 52,
+      "Street": "George Street",
+      "City": "Manchester",
+      "Postcode": "M7B 3NX"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcaf"
+  },
+  "Customer_ID": 16,
+  "gender": "F",
+  "Name": "Shannon Harrison",
+  "Age": 49,
+  "Email": "ShannonHarrison@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 67,
+      "Street": "Fountain Street",
+      "City": "Manchester",
+      "Postcode": "M5P 5HX"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 67,
+      "Street": "Fountain Street",
+      "City": "Manchester",
+      "Postcode": "M5P 5HX"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcb0"
+  },
+  "Customer_ID": 17,
+  "gender": "M",
+  "Name": "Shaun Stone",
+  "Age": 42,
+  "Email": "ShaunStone@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 95,
+      "Street": "King Street",
+      "City": "Manchester",
+      "Postcode": "M4R 1BM"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 95,
+      "Street": "King Street",
+      "City": "Manchester",
+      "Postcode": "M4R 1BM"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcb1"
+  },
+  "Customer_ID": 18,
+  "gender": "M",
+  "Name": "Travis Collier",
+  "Age": 80,
+  "Email": "TravisCoolier@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 40,
+      "Street": "Cheetham Hill Road",
+      "City": "Manchester",
+      "Postcode": "M4U 5ZG"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 40,
+      "Street": "Cheetham Hill Road",
+      "City": "Manchester",
+      "Postcode": "M4U 5ZG"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcb2"
+  },
+  "Customer_ID": 19,
+  "gender": "M",
+  "Name": "Richard Rhodes",
+  "Age": 22,
+  "Email": "RichardRhodes@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 95,
+      "Street": "King Street",
+      "City": "Manchester",
+      "Postcode": "M4R 1BM"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 95,
+      "Street": "King Street",
+      "City": "Manchester",
+      "Postcode": "M4R 1BM"
+    }
+  ],
+  "Recommended_Products": []
+},{
+  "_id": {
+    "$oid": "63bae5a849495cc6cfe1fcb3"
+  },
+  "Customer_ID": 20,
+  "gender": "F",
+  "Name": "Patricia Thomas",
+  "Age": 33,
+  "Email": "PatriciaThomas@gmail.com",
+  "Billing Address": [
+    {
+      "House_Number": 15,
+      "Street": "Portland Street",
+      "City": "Manchester",
+      "Postcode": "M4H 3QF"
+    }
+  ],
+  "Shipping_Address": [
+    {
+      "House_Number": 15,
+      "Street": "Portland Street",
+      "City": "Manchester",
+      "Postcode": "M4H 3QF"
+    }
+  ],
+  "Recommended_Products": []
+}]

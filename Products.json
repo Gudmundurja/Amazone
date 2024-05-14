@@ -1,0 +1,1286 @@
+[{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c48"
+  },
+  "Product_id": 31,
+  "Details": {
+    "Type": "Book",
+    "Name": "Aerified",
+    "Description": "Man faces fears",
+    "Dimensions": {
+      "Length": 14.22,
+      "Width": 3.88,
+      "Height": 15.98
+    },
+    "Shipping_weight": 150.8,
+    "Average_Customer_Rating": 7,
+    "Price": 10.99,
+    "Cost": 7.99
+  },
+  "Author_name": "Tú Motherwell",
+  "Publisher": "Lehner, Russel and Shanahan",
+  "Publication_Year": 2008,
+  "ISBN": "195024559-4"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c49"
+  },
+  "Product_id": 32,
+  "Details": {
+    "Type": "Book",
+    "Name": "Tempsoft",
+    "Description": "Treasure Hunt",
+    "Dimensions": {
+      "Length": 9.34,
+      "Width": 3.5,
+      "Height": 15.98
+    },
+    "Shipping_weight": 150.8,
+    "Average_Customer_Rating": 6.3,
+    "Price": 16.99,
+    "Cost": 10.54
+  },
+  "Author_name": "Méryl Rampage",
+  "Publisher": "Tromp-Waelchi",
+  "Publication_Year": 2004,
+  "ISBN": "075574749-6"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c4a"
+  },
+  "Product_id": 33,
+  "Details": {
+    "Type": "Book",
+    "Name": "Duobam",
+    "Description": "Sci-fi Thriller",
+    "Dimensions": {
+      "Length": 9.34,
+      "Width": 3.88,
+      "Height": 19.23
+    },
+    "Shipping_weight": 142.86,
+    "Average_Customer_Rating": 5.2,
+    "Price": 21.85,
+    "Cost": 5.99
+  },
+  "Author_name": "Mén McGeraghty",
+  "Publisher": "Vandervort and Sons",
+  "Publication_Year": 2002,
+  "ISBN": "616171193-1"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c4b"
+  },
+  "Product_id": 34,
+  "Details": {
+    "Type": "Book",
+    "Name": "Treeflex",
+    "Description": "Scientific Journal",
+    "Dimensions": {
+      "Length": 10.3,
+      "Width": 5.67,
+      "Height": 13.58
+    },
+    "Shipping_weight": 120.7,
+    "Average_Customer_Rating": 8.4,
+    "Price": 10.99,
+    "Cost": 8.56
+  },
+  "Author_name": "Mén Milkeham",
+  "Publisher": "Kreiger-Stokes",
+  "Publication_Year": 2006,
+  "ISBN": "386967004-5"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c4c"
+  },
+  "Product_id": 35,
+  "Details": {
+    "Type": "Book",
+    "Name": "Zathin",
+    "Description": "Mystery",
+    "Dimensions": {
+      "Length": 13.32,
+      "Width": 4.92,
+      "Height": 16.08
+    },
+    "Shipping_weight": 139.6,
+    "Average_Customer_Rating": 8.4,
+    "Price": 19.99,
+    "Cost": 8.56
+  },
+  "Author_name": "Styrbjörn Janowicz",
+  "Publisher": "Huel and Sons",
+  "Publication_Year": 2012,
+  "ISBN": "761073201-X"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c4d"
+  },
+  "Product_id": 36,
+  "Details": {
+    "Type": "Book",
+    "Name": "Gembucket",
+    "Description": "Romcom",
+    "Dimensions": {
+      "Length": 14.22,
+      "Width": 6.75,
+      "Height": 16.08
+    },
+    "Shipping_weight": 142.86,
+    "Average_Customer_Rating": 6.3,
+    "Price": 10.99,
+    "Cost": 5.99
+  },
+  "Author_name": "Miléna Rangall",
+  "Publisher": "Gerlach-Windler",
+  "Publication_Year": 2008,
+  "ISBN": "876788341-9"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c4e"
+  },
+  "Product_id": 37,
+  "Details": {
+    "Type": "Book",
+    "Name": "Sonsing",
+    "Description": "Eurovision biography",
+    "Dimensions": {
+      "Length": 9.34,
+      "Width": 3.88,
+      "Height": 20.45
+    },
+    "Shipping_weight": 182.3,
+    "Average_Customer_Rating": 7.5,
+    "Price": 9.99,
+    "Cost": 5.99
+  },
+  "Author_name": "Kù Matkovic",
+  "Publisher": "Murphy, Block and Kutch",
+  "Publication_Year": 1996,
+  "ISBN": "385065605-5"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c4f"
+  },
+  "Product_id": 38,
+  "Details": {
+    "Type": "Book",
+    "Name": "Mat Lam Tam",
+    "Description": "Cambodian classic",
+    "Dimensions": {
+      "Length": 12.76,
+      "Width": 3.5,
+      "Height": 13.58
+    },
+    "Shipping_weight": 139.6,
+    "Average_Customer_Rating": 8.4,
+    "Price": 25.99,
+    "Cost": 4.56
+  },
+  "Author_name": "Esbjörn Jirik",
+  "Publisher": "Gibson-Walsh",
+  "Publication_Year": 1992,
+  "ISBN": "109599821-8"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c50"
+  },
+  "Product_id": 39,
+  "Details": {
+    "Type": "Book",
+    "Name": "Trippledex",
+    "Description": "Mystery",
+    "Dimensions": {
+      "Length": 13.32,
+      "Width": 5.67,
+      "Height": 14.99
+    },
+    "Shipping_weight": 190.2,
+    "Average_Customer_Rating": 5,
+    "Price": 12.99,
+    "Cost": 4.56
+  },
+  "Author_name": "Pål Pestell",
+  "Publisher": "Block, Ortiz and Thiel",
+  "Publication_Year": 1986,
+  "ISBN": "732248638-2"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c51"
+  },
+  "Product_id": 40,
+  "Details": {
+    "Type": "Book",
+    "Name": "Y-find",
+    "Description": "Drama",
+    "Dimensions": {
+      "Length": 12.76,
+      "Width": 6.75,
+      "Height": 18.76
+    },
+    "Shipping_weight": 190.2,
+    "Average_Customer_Rating": 8.4,
+    "Price": 16.99,
+    "Cost": 8.56
+  },
+  "Author_name": "Sélène Ramstead",
+  "Publisher": "Jacobi, Crooks and Johnson",
+  "Publication_Year": 1971,
+  "ISBN": "591253172-4"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c52"
+  },
+  "Product_ID": 1,
+  "Detail": {
+    "Type": "CD",
+    "Name": "Powerslave",
+    "Description": "Rock",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 9.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Bingo",
+    "Publisher": "Elektra",
+    "Number_of_Tracks": 9,
+    "Total_playing_Time": 27
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c53"
+  },
+  "Product_ID": 2,
+  "Detail": {
+    "Type": "CD",
+    "Name": "Stadium Arcadium",
+    "Description": "Pop",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 14.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Red Hot Chilli Peppers",
+    "Publisher": "Warner Bros. Records",
+    "Number_of_Tracks": 14,
+    "Total_playing_Time": 42
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c54"
+  },
+  "Product_ID": 3,
+  "Detail": {
+    "Type": "CD",
+    "Name": "The Colour and the Shape",
+    "Description": "Rock",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 11.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Foo Fighters",
+    "Publisher": "Capitol Records",
+    "Number_of_Tracks": 14,
+    "Total_playing_Time": 50
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c55"
+  },
+  "Product_ID": 4,
+  "Detail": {
+    "Type": "CD",
+    "Name": "Apetite for Destruction",
+    "Description": "Rock",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 10.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Guns N' Roses",
+    "Publisher": "Geffen Records",
+    "Number_of_Tracks": 10,
+    "Total_playing_Time": 30
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c56"
+  },
+  "Product_ID": 5,
+  "Detail": {
+    "Type": "CD",
+    "Name": "Apetite for Destruction",
+    "Description": "Rock",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 10.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Guns N' Roses",
+    "Publisher": "Geffen Records",
+    "Number_of_Tracks": 12,
+    "Total_playing_Time": 53
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c57"
+  },
+  "Product_ID": 6,
+  "Detail": {
+    "Type": "CD",
+    "Name": "BAD",
+    "Description": "Pop",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 16.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Michael Jackson",
+    "Publisher": "Epic Records",
+    "Number_of_Tracks": 11,
+    "Total_playing_Time": 48
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c58"
+  },
+  "Product_ID": 6,
+  "Detail": {
+    "Type": "CD",
+    "Name": "BAD",
+    "Description": "Pop",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 16.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Michael Jackson",
+    "Publisher": "Epic Records",
+    "Number_of_Tracks": 11,
+    "Total_playing_Time": 48
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c59"
+  },
+  "Product_ID": 7,
+  "Detail": {
+    "Type": "CD",
+    "Name": "Scorpion",
+    "Description": "Rapp",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 15.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Drake",
+    "Publisher": "Republic Records",
+    "Number_of_Tracks": 11,
+    "Total_playing_Time": 48
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c5a"
+  },
+  "Product_ID": 8,
+  "Detail": {
+    "Type": "CD",
+    "Name": "The Heist",
+    "Description": "Rapp",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 9.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Macklemore",
+    "Publisher": "Alternative Distributions Alignment",
+    "Number_of_Tracks": 15,
+    "Total_playing_Time": 64
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c5b"
+  },
+  "Product_ID": 9,
+  "Detail": {
+    "Type": "CD",
+    "Name": "Hollywood's bleeding",
+    "Description": "Pop",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 9.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Post Malone",
+    "Publisher": "Republic Records",
+    "Number_of_Tracks": 17,
+    "Total_playing_Time": 51
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c5c"
+  },
+  "Product_ID": 10,
+  "Detail": {
+    "Type": "CD",
+    "Name": "Metallica",
+    "Description": "Rock",
+    "Dimensions": {
+      "Length": 12,
+      "Width": 0.12,
+      "Height": 12
+    },
+    "Shipping_Weight": 14,
+    "Average_Customer_Rating": 0,
+    "Price": 12.99,
+    "Cost": 5.99,
+    "Aritst_Name": "Metallica",
+    "Publisher": "Elektra Records",
+    "Number_of_Tracks": 12,
+    "Total_playing_Time": 62
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c5d"
+  },
+  "Product_id": 41,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Bakery",
+    "Name": "Glazed Donut",
+    "Description": "Donut with iced glazing",
+    "Dimensions": {
+      "Length": 10,
+      "Width": 10,
+      "Height": 4
+    },
+    "Weight/Quantity": 60,
+    "Average_Customer_Rating": 4,
+    "Price": 0.49,
+    "Cost": 0.19,
+    "Expiry_Date": "28/01/2023",
+    "Country_Of_Origin": "America"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c5e"
+  },
+  "Product_id": 42,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Bakery",
+    "Name": "Cheese Twist",
+    "Description": "Pastry with cheese",
+    "Dimensions": {
+      "Length": 10,
+      "Width": 10,
+      "Height": 4
+    },
+    "Weight/Quantity": 70,
+    "Average_Customer_Rating": 5,
+    "Price": 0.49,
+    "Cost": 0.29,
+    "Expiry_Date": "27/01/2023",
+    "Country_Of_Origin": "Germany"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c5f"
+  },
+  "Product_id": 43,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Bakery",
+    "Name": "White Tiger Loaf",
+    "Description": "Loaf of white tiger bread",
+    "Dimensions": {
+      "Length": 20,
+      "Width": 20,
+      "Height": 10
+    },
+    "Weight/Quantity": 210,
+    "Average_Customer_Rating": 5,
+    "Price": 0.89,
+    "Cost": 0.69,
+    "Expiry_Date": "29/01/2023",
+    "Country_Of_Origin": "India"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c60"
+  },
+  "Product_id": 44,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Bakery",
+    "Name": "50/50 bread",
+    "Description": "Loaf of bread consisting of the best of both",
+    "Dimensions": {
+      "Length": 20,
+      "Width": 20,
+      "Height": 10
+    },
+    "Weight/Quantity": 200,
+    "Average_Customer_Rating": 5,
+    "Price": 0.89,
+    "Cost": 0.49,
+    "Expiry_Date": "29/01/2023",
+    "Country_Of_Origin": "UK"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c61"
+  },
+  "Product_id": 45,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Bakery",
+    "Name": "Soda Bread",
+    "Description": "Loaf of healthy soda bread",
+    "Dimensions": {
+      "Length": 18,
+      "Width": 18,
+      "Height": 10
+    },
+    "Weight/Quantity": 220,
+    "Average_Customer_Rating": 2,
+    "Price": 0.83,
+    "Cost": 0.39,
+    "Expiry_Date": "30/01/2023",
+    "Country_Of_Origin": "UK"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c62"
+  },
+  "Product_id": 46,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Bakery",
+    "Name": "Deep Fried Bread",
+    "Description": "Twist of deep fried dough",
+    "Dimensions": {
+      "Length": 15,
+      "Width": 5,
+      "Height": 3
+    },
+    "Weight/Quantity": 40,
+    "Average_Customer_Rating": 5,
+    "Price": 1.2,
+    "Cost": 1,
+    "Expiry_Date": "24/01/2023",
+    "Country_Of_Origin": "Iceland"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c63"
+  },
+  "Product_id": 47,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Drinks",
+    "Name": "Coca-Cola",
+    "Description": "American pop drink",
+    "Dimensions": {
+      "Length": 6,
+      "Width": 6,
+      "Height": 25
+    },
+    "Weight/Quantity": 1000,
+    "Average_Customer_Rating": 5,
+    "Price": 2,
+    "Cost": 1.8,
+    "Expiry_Date": "10/01/2024",
+    "Country_Of_Origin": "America"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c64"
+  },
+  "Product_id": 48,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Drinks",
+    "Name": "Lemonade",
+    "Description": "Pop drink with a lemon twist",
+    "Dimensions": {
+      "Length": 6,
+      "Width": 6,
+      "Height": 25
+    },
+    "Weight/Quantity": 1000,
+    "Average_Customer_Rating": 3,
+    "Price": 1.9,
+    "Cost": 1.5,
+    "Expiry_Date": "12/01/2024",
+    "Country_Of_Origin": "Argentina"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c65"
+  },
+  "Product_id": 49,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Drinks",
+    "Name": "Apple Juice",
+    "Description": "Drink made of 100% apples",
+    "Dimensions": {
+      "Length": 10,
+      "Width": 10,
+      "Height": 20
+    },
+    "Weight/Quantity": 700,
+    "Average_Customer_Rating": 3,
+    "Price": 1,
+    "Cost": 0.98,
+    "Expiry_Date": "1/06/2023",
+    "Country_Of_Origin": "Germany"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c66"
+  },
+  "Product_id": 50,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Drinks",
+    "Name": "Orange Juice",
+    "Description": "Orange drink made from freshly squeezed oranges",
+    "Dimensions": {
+      "Length": 10,
+      "Width": 10,
+      "Height": 20
+    },
+    "Weight/Quantity": 700,
+    "Average_Customer_Rating": 3,
+    "Price": 1,
+    "Cost": 0.98,
+    "Expiry_Date": "1/06/2023",
+    "Country_Of_Origin": "Germany"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c67"
+  },
+  "Product_id": 51,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Drinks",
+    "Name": "Bottled Water",
+    "Description": "Water from a British Lake",
+    "Dimensions": {
+      "Length": 10,
+      "Width": 20,
+      "Height": 20
+    },
+    "Weight/Quantity": 1000,
+    "Average_Customer_Rating": 1,
+    "Price": 1.49,
+    "Cost": 0.99,
+    "Expiry_Date": "1/06/2024",
+    "Country_Of_Origin": "UK"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c68"
+  },
+  "Product_id": 52,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Fruits and Vegetables",
+    "Name": "Carrot",
+    "Description": "Orange stick from the ground",
+    "Dimensions": {
+      "Length": 5,
+      "Width": 1,
+      "Height": 1
+    },
+    "Weight/Quantity": 20,
+    "Average_Customer_Rating": 2,
+    "Price": 0.1,
+    "Cost": 0.08,
+    "Expiry_Date": "1/02/2023",
+    "Country_Of_Origin": "UK"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c69"
+  },
+  "Product_id": 53,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Fruits and Vegetables",
+    "Name": "Plum",
+    "Description": "Purple ball of juice",
+    "Dimensions": {
+      "Length": 3,
+      "Width": 3,
+      "Height": 3
+    },
+    "Weight/Quantity": 20,
+    "Average_Customer_Rating": 2,
+    "Price": 0.2,
+    "Cost": 0.18,
+    "Expiry_Date": "5/02/2023",
+    "Country_Of_Origin": "China"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c6a"
+  },
+  "Product_id": 54,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Fruits and Vegetables",
+    "Name": "Seaweed",
+    "Description": "Salty strands of wet grass",
+    "Dimensions": {
+      "Length": 3,
+      "Width": 3,
+      "Height": 3
+    },
+    "Weight/Quantity": 20,
+    "Average_Customer_Rating": 5,
+    "Price": 0.4,
+    "Cost": 0.3,
+    "Expiry_Date": "27/02/2023",
+    "Country_Of_Origin": "Madagascar"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c6b"
+  },
+  "Product_id": 55,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Fruits and Vegetables",
+    "Name": "Potato",
+    "Description": "Dense ball of starch",
+    "Dimensions": {
+      "Length": 5,
+      "Width": 5,
+      "Height": 5
+    },
+    "Weight/Quantity": 40,
+    "Average_Customer_Rating": 2,
+    "Price": 0.6,
+    "Cost": 0.5,
+    "Expiry_Date": "5/02/2023",
+    "Country_Of_Origin": "Ireland"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c6c"
+  },
+  "Product_id": 56,
+  "Details": {
+    "Type": "Fresh Product",
+    "Category": "Fruits and Vegetables",
+    "Name": "Banana",
+    "Description": "Yellow stick which can be used as a gun or sword",
+    "Dimensions": {
+      "Length": 5,
+      "Width": 1,
+      "Height": 1
+    },
+    "Weight/Quantity": 15,
+    "Average_Customer_Rating": 2,
+    "Price": 0.14,
+    "Cost": 0.13,
+    "Expiry_Date": "29/01/2023",
+    "Country_Of_Origin": "Ecuador"
+  }
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c6d"
+  },
+  "Product_id": 11,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Sony",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 15.8,
+      "Height": 71.5,
+      "Width": 0.71
+    }
+  },
+  "Shipping_Weight": 206,
+  "Average_Customer_Rating": 6.3,
+  "Price": 765,
+  "Cost": 415,
+  "Brand": "Sony V",
+  "Model": "Sony Xperia",
+  "Colour": "Space Blue",
+  "Features": "Dual Camera"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c6e"
+  },
+  "Product_id": 12,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Motorolla",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 16.08,
+      "Height": 7.81,
+      "Width": 0.83
+    }
+  },
+  "Shipping_Weight": 240,
+  "Average_Customer_Rating": 7.3,
+  "Price": 500,
+  "Cost": 450,
+  "Brand": "Motorolla VI",
+  "Model": "Motorolla Flip",
+  "Colour": "Black",
+  "Features": "Triple Camera"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c6f"
+  },
+  "Product_id": 13,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Nokia",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 14.67,
+      "Height": 71.5,
+      "Width": 0.83
+    }
+  },
+  "Shipping_Weight": 172,
+  "Average_Customer_Rating": 7.3,
+  "Price": 650,
+  "Cost": 450,
+  "Brand": "Nokia X19",
+  "Model": "Nokia X19 - WMH",
+  "Colour": "Red",
+  "Features": "Dual Camera"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c70"
+  },
+  "Product_id": 14,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Motorolla",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 16.08,
+      "Height": 7.76,
+      "Width": 0.71
+    }
+  },
+  "Shipping_Weight": 203,
+  "Average_Customer_Rating": 5.5,
+  "Price": 999,
+  "Cost": 415,
+  "Brand": "Motorolla B10",
+  "Model": "Motorolla B10 -XTZ",
+  "Colour": "Green",
+  "Features": "Triple Camera"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c71"
+  },
+  "Product_id": 15,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Samsung",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 14.75,
+      "Height": 7.76,
+      "Width": 0.77
+    }
+  },
+  "Shipping_Weight": 238,
+  "Average_Customer_Rating": 6.3,
+  "Price": 550,
+  "Cost": 235,
+  "Brand": "Samsung Galaxy",
+  "Model": "Samsung Galaxy 10",
+  "Colour": "White",
+  "Features": "Feather Touch"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c72"
+  },
+  "Product_id": 16,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Motorolla",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 14.67,
+      "Height": 7.81,
+      "Width": 0.83
+    }
+  },
+  "Shipping_Weight": 172,
+  "Average_Customer_Rating": 5,
+  "Price": 865,
+  "Cost": 375,
+  "Brand": "Motorolla B12",
+  "Model": "Motorolla B12 - XY9",
+  "Colour": "Green",
+  "Features": "Triple Camera"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c73"
+  },
+  "Product_id": 17,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Sony",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 14.75,
+      "Height": 7.78,
+      "Width": 0.71
+    }
+  },
+  "Shipping_Weight": 206,
+  "Average_Customer_Rating": 7.3,
+  "Price": 915,
+  "Cost": 375,
+  "Brand": "Sony V",
+  "Model": "Sony Xperia Z",
+  "Colour": "Black",
+  "Features": "OLED Display"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c74"
+  },
+  "Product_id": 18,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Huawei",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 16.08,
+      "Height": 7.78,
+      "Width": 0.71
+    }
+  },
+  "Shipping_Weight": 172,
+  "Average_Customer_Rating": 5.5,
+  "Price": 865,
+  "Cost": 275,
+  "Brand": "Huawei D10",
+  "Model": "Huawei Mate 10",
+  "Colour": "Rose Gold",
+  "Features": "Triple Camera"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c75"
+  },
+  "Product_id": 19,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Huawei",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 16.08,
+      "Height": 71.5,
+      "Width": 0.81
+    }
+  },
+  "Shipping_Weight": 203,
+  "Average_Customer_Rating": 8.2,
+  "Price": 865,
+  "Cost": 235,
+  "Brand": "Huawei Mate",
+  "Model": "Huawei Mate 8",
+  "Colour": "Navy",
+  "Features": "OLED Display"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c76"
+  },
+  "Product_id": 20,
+  "Detail": {
+    "Type": "Mobile_Phone",
+    "Name": "Motorolla",
+    "Description": "SmartPhone",
+    "Dimensions": {
+      "Length": 15.6,
+      "Height": 7.81,
+      "Width": 0.77
+    }
+  },
+  "Shipping_Weight": 194,
+  "Average_Customer_Rating": 5,
+  "Price": 650,
+  "Cost": 415,
+  "Brand": "Motorolla V10",
+  "Model": "Motorolla Flip 10",
+  "Colour": "White",
+  "Features": "Feather Touch"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c77"
+  },
+  "Product_id": 21,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Washing Machine",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 76.2,
+      "Height": 81.28,
+      "Width": 71.12
+    }
+  },
+  "Shipping_Weight": 77000,
+  "Average_Customer_Rating": 0,
+  "Price": 275,
+  "Cost": 120,
+  "Voltage": 120,
+  "Colour": "Navy",
+  "Style": "traditional"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c78"
+  },
+  "Product_id": 22,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Cooler",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 88.9,
+      "Height": 120,
+      "Width": 92.3
+    }
+  },
+  "Shipping_Weight": 20000,
+  "Average_Customer_Rating": 0,
+  "Price": 1353,
+  "Cost": 875,
+  "Voltage": 130,
+  "Colour": "Green",
+  "Style": "traditional"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c79"
+  },
+  "Product_id": 23,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Hair Dryer",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 25,
+      "Height": 4,
+      "Width": 3
+    }
+  },
+  "Shipping_Weight": 3000,
+  "Average_Customer_Rating": 0,
+  "Price": 35,
+  "Cost": 15,
+  "Voltage": "Null",
+  "Colour": "Space Blue",
+  "Style": "classic"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c7a"
+  },
+  "Product_id": 24,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Refrigerator",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 80.2,
+      "Height": 123.5,
+      "Width": 88.8
+    }
+  },
+  "Shipping_Weight": 58000,
+  "Average_Customer_Rating": 0,
+  "Price": 430,
+  "Cost": 150,
+  "Voltage": 135,
+  "Colour": "Space Blue",
+  "Style": "traditional"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c7b"
+  },
+  "Product_id": 25,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Refrigerator",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 81,
+      "Height": 125,
+      "Width": 85.9
+    }
+  },
+  "Shipping_Weight": 62000,
+  "Average_Customer_Rating": 0,
+  "Price": 510,
+  "Cost": 155,
+  "Voltage": 132,
+  "Colour": "Navy",
+  "Style": "modern"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c7c"
+  },
+  "Product_id": 26,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Fan",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 35,
+      "Height": 35,
+      "Width": 17
+    }
+  },
+  "Shipping_Weight": 9000,
+  "Average_Customer_Rating": 0,
+  "Price": 30,
+  "Cost": 12,
+  "Voltage": 80,
+  "Colour": "Space Blue",
+  "Style": "traditional"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c7d"
+  },
+  "Product_id": 27,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Hair Dryer",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 25,
+      "Height": 10,
+      "Width": 5
+    }
+  },
+  "Shipping_Weight": 5000,
+  "Average_Customer_Rating": 0,
+  "Price": 42,
+  "Cost": 17,
+  "Voltage": 80,
+  "Colour": "Navy",
+  "Style": "classic"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c7e"
+  },
+  "Product_id": 28,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Hair Dryer",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 23,
+      "Height": 13.5,
+      "Width": 5
+    }
+  },
+  "Shipping_Weight": 4000,
+  "Average_Customer_Rating": 0,
+  "Price": 37,
+  "Cost": 12.5,
+  "Voltage": 75,
+  "Colour": "Navy",
+  "Style": "traditional"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c7f"
+  },
+  "Product_id": 29,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Washing Machine",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 88.8,
+      "Height": 110,
+      "Width": 85
+    }
+  },
+  "Shipping_Weight": 68000,
+  "Average_Customer_Rating": 0,
+  "Price": 275,
+  "Cost": 99,
+  "Voltage": 125,
+  "Colour": "Red",
+  "Style": "modern"
+},{
+  "_id": {
+    "$oid": "63b9be0e4838041b2f631c80"
+  },
+  "Product_id": 30,
+  "Detail": {
+    "Type": "Home_Appliance",
+    "Name": "Refrigerator",
+    "Description": "Household appliances",
+    "Dimensions": {
+      "Length": 89.7,
+      "Height": 142,
+      "Width": 84.8
+    }
+  },
+  "Shipping_Weight": 76000,
+  "Average_Customer_Rating": 0,
+  "Price": 675,
+  "Cost": 250,
+  "Voltage": "Null",
+  "Colour": "Space Blue",
+  "Style": "classic"
+}]
