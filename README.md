@@ -1,5 +1,5 @@
 🛒 Amazone E-Commerce Database (MongoDB)
-Amazone is a fictional e-commerce backend system designed for the Understanding Databases (DATA70141) module at The University of Manchester. This project demonstrates a complete NoSQL database implementation using MongoDB, with extensive focus on schema design, synthetic data generation, advanced querying, and distributed system design for scalability.
+Amazone is a fictional e-commerce backend system. This project demonstrates a complete NoSQL database implementation using MongoDB, with extensive focus on schema design, synthetic data generation, advanced querying, and distributed system design for scalability.
 
 📌 Key Components
 🔧 Backend Implementation
