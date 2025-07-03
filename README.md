@@ -44,7 +44,8 @@ Stores
 Daily_Inventory_Level
 
 
-🌍 theoretical question - how would it be implmented if we were to start Scaling to the EU
+🌍 theoretical question - how would it be implmented if we were to start Scaling to the EU?
+
 📤 Replication Strategy
 Multi-Leader Replication recommended for geo-distribution and high availability.
 
